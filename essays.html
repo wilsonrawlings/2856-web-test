@@ -4,18 +4,18 @@ title: "Essays"
 description: "2856 Tesseract"
 ---
 
-{% for essay in paginator.essays %}
+{% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ essay.title }}
+        <h2 class="post-title">            {{ post.title }}
         </h2>
-        {% if essay.subtitle %}
+        {% if post.subtitle %}
         <h3 class="post-subtitle">
-            {{ essay.subtitle }}
+            {{ post.subtitle }}
         </h3>
         {% endif %}
 
     </a>
-    <p class="post-meta">Posted by {% if essay.author %}{{ essay.author }}{% else %}{{ essay.title }}{% endif %} on {{ essay.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ post.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 {% endfor %}
