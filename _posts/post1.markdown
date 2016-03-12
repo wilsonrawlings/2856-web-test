@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "A First Look"
-subtitle:   "We get our first look at the car."
+title:      "Post 1"
+subtitle:   "Test 1"
 date:       "2015-05-02"
 ---
 
-<p></p>
+<p>Hello. This Is Post Number 1</p>
