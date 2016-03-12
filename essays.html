@@ -7,15 +7,15 @@ description: "2856 Tesseract"
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
+        <h2 class="post-title">            {{ essays.title }}
         </h2>
-        {% if post.subtitle %}
+        {% if essays.subtitle %}
         <h3 class="post-subtitle">
-            {{ post.subtitle }}
+            {{ essays.subtitle }}
         </h3>
         {% endif %}
 
     </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">Posted by {% if essays.author %}{{ essays.author }}{% else %}{{ site.title }}{% endif %} on {{ essays.date | date: "%B %-d, %Y" }}</p>
 </div>
 {% endfor %}
