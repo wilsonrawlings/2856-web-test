@@ -1,5 +1,5 @@
 ---
-layout:     essays
+layout:     essay
 title:      "Essay 1"
 subtitle:   "Test 2"
 date:       2016-11-03 20:04:12
