@@ -1,0 +1,17 @@
+# Site settings
+title: 2856 Tesseract
+header-img: img/
+email: 
+description: ""
+baseurl: ""
+url: "2856.io"
+twitter_username: redshiftftc
+github_username:  redshiftrobotics
+facebook_username:  
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
