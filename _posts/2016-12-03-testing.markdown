@@ -3,6 +3,7 @@ layout:     essay
 title:      "Essay 1"
 subtitle:   "Test 2"
 date:       2016-11-03 20:04:12
+category: essay
 ---
 
 <p>Hello. This Is Essay Number 1...</p>

@@ -5,6 +5,9 @@ description: "2856 Tesseract"
 ---
 
 {% for post in paginator.posts %}
+{% if post.categories contains 'essay' %}
+    
+
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
@@ -18,4 +21,6 @@ description: "2856 Tesseract"
     </a>
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ post.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
+{% endif %}
 {% endfor %}
+
