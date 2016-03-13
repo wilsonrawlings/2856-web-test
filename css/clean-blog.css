@@ -409,3 +409,7 @@ body {
 .class-about {
       float: left;
     }
+
+.post-h1{
+  text-align: center;
+}
