@@ -78,7 +78,7 @@ hr.small {
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: #FF0033;
   }
 }
 @media only screen and (min-width: 1170px) {
@@ -213,7 +213,7 @@ hr.small {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #0085a1;
+  color: #FF0033;
 }
 .post-preview > a > .post-title {
   font-size: 30px;

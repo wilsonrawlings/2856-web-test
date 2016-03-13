@@ -1,13 +1,13 @@
 # Site settings
 title: 2856 Tesseract
 header-img: img/
-email: 
+email: saasrobots@gmail.com
 description: "The Webpage for Red Shift Robotics' 2856 Tesseract."
 baseurl: ""
 url: "localhost:4000"
 twitter_username: redshiftftc
 github_username:  redshiftrobotics
-facebook_username:  
+facebook_username:  SAAS-Robotics-Club
 
 # Build settings
 markdown: kramdown
