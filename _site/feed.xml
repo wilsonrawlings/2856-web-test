@@ -5,9 +5,109 @@
     <description>The Webpage for Red Shift Robotics&#39; 2856 Tesseract.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 13 Mar 2016 21:01:41 -0700</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2016 21:01:41 -0700</lastBuildDate>
+    <pubDate>Sun, 13 Mar 2016 21:47:14 -0700</pubDate>
+    <lastBuildDate>Sun, 13 Mar 2016 21:47:14 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Preseason Session #5</title>
+        <description>&lt;h2&gt;Leadership Discussion&lt;/h2&gt;
+
+&lt;p&gt;Because we are the veteran team, we decided to have a discussion about how leadership on it is going to pan out this year. Robert and Arielle are going to run the engineering notebook on 2856 and coordinate outreach and sponsors for all three teams. This was agreed upon by 2856. 
+&lt;/p&gt;
+
+&lt;p&gt;We had a long discussion about how accountability is going to work this year. In order to make sure everyone is working on something within their skill set, Gabe raised the idea of having Isaac run the backlog and delegate to the programmers and have Wilson do the same with the builders. We were not able to come up with a complete plan for how this is going to work, but we planned a meeting in a month to check in on how this is working. &lt;/p&gt;
+
+&lt;p&gt;Overall, it was really helpful to have this discussion and discuss the pros and cons of the backlog manager idea. The meeting in the future will be very helpful to any problems from this.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Finish organizational projects&lt;/h2&gt;
+
+&lt;p&gt;Arielle and AJ worked on writing down the labels of the bins we haven’t yet finished. This will definitely help us in the future to be able to know where parts are and work more efficiently.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post5-1.jpg&quot; alt=&quot;paper&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Needed Labels for Cart and Bins.&lt;/span&gt;
+&lt;img src=&quot;/img/post5-2.jpg&quot; alt=&quot;computer&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Label Maker Hooked up to Computer.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Finish computer for laser printer&lt;/h2&gt;
+
+&lt;p&gt;Armon and Wilson built a computer for the laser printer. Previously, the computer wasn’t in a very good case and it wasn’t safe. The team bought a new case and worked on disassembling and reassembling the computer in the new case.&lt;/p&gt;
+
+&lt;p&gt;However, they ran into some problems. For example, the board kept shorting out because the bottom of the motherboard was touching the metal of the case. They put spacers in the computer in order to fix this.&lt;/p&gt;
+
+&lt;p&gt;It is now in great working order!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post5-3.jpg&quot; alt=&quot;computer&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Newly Built Computer For The Laser Cutter.&lt;/span&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Sep 2015 13:04:12 -0700</pubDate>
+        <link>localhost:4000/2015/09/09/leadership/</link>
+        <guid isPermaLink="true">localhost:4000/2015/09/09/leadership/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Preseason Session #4</title>
+        <description>&lt;h2&gt;Read Section D of the Game Manual&lt;/h2&gt;
+
+&lt;p&gt;We want to make sure that the team knows everything available to us in terms of materials. This will give us the most possibilities when building and programming the robot.&lt;/p&gt;
+
+&lt;p&gt;What we can use:&lt;/p&gt;
+
+&lt;p&gt;8 motors and 12 servos (new approved motors)&lt;/p&gt;
+&lt;p&gt;Bring our own controllers&lt;/p&gt;
+&lt;p&gt;Red = +, Black = -&lt;/p&gt;
+&lt;p&gt;Gopros for our own entertainment (only for post match enjoyment)&lt;/p&gt;
+&lt;p&gt;3D printed parts are approved if you make them&lt;/p&gt;
+&lt;p&gt;1 degree of freedom limitation&lt;/p&gt;
+&lt;p&gt;As long as we can easily buy it, we can basically use anything - planetary gear trains, guide rails, carriages, carbon fiber, elastic fabric, rubber, shrink wrap
+&lt;p&gt;Don’t modify electronics&lt;/p&gt;
+&lt;p&gt;USB surge protector (for static problems?)&lt;/p&gt;
+&lt;p&gt;Ferrite Beads&lt;/p&gt;
+
+
+&lt;img src=&quot;/img/post4-1.jpg&quot; alt=&quot;manual&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Game Manual Section D.&lt;/span&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Research other team’s design processes using engineering notebooks&lt;/h2&gt;
+
+&lt;p&gt;Willy found some of the best engineering notebooks in the world. Our team used them to analyze other team’s design processes and how to replicate them. In addition, we scouted how their notebooks looked and how we can use them for inspiration.&lt;/p&gt;
+
+&lt;p&gt;Software prototyping:&lt;/p&gt;
+&lt;p&gt;Throwaway or evolutionary&lt;/p&gt; 
+&lt;p&gt;Throw away - learn from it and create a different finished product&lt;/p&gt; 
+&lt;p&gt;Evolutionary - create a better product and evolve that into your final&lt;/p&gt;
+&lt;p&gt;Limitations - sensors&lt;/p&gt; 
+&lt;p&gt;Use integrated phone sensors (can we use the phone camera?) - color and shape&lt;/p&gt;
+
+&lt;p&gt;Physical prototyping:&lt;/p&gt;
+&lt;p&gt;Build entire robot out of thin wood, went to the first competition with it, then manufactured
+Oly Cows did this too, did all competitions with basic robot while the rest of the group was CADing and preparing another robot for January 
+One team uses an app to show CAD projects in real life - Edrawings&lt;/p&gt;
+
+&lt;img src=&quot;/img/post4-2.jpg&quot; alt=&quot;research&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Researching Other Teams and Ideas.&lt;/span&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Learning about the mill&lt;/h2&gt;
+
+&lt;p&gt;SAAS Robotics, in addition to having a new space, has some new technology. Gerald used some time today to teach us how the mill works. It’s very interesting and will definitely help us in the next year! We learned how to set it up and what it can be used for (very precise cuts and holes).&lt;/p&gt;
+&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Sep 2015 13:04:12 -0700</pubDate>
+        <link>localhost:4000/2015/09/08/research/</link>
+        <guid isPermaLink="true">localhost:4000/2015/09/08/research/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Preseason Session #3</title>
@@ -22,7 +122,7 @@
 
 &lt;hr /&gt;
 
-&lt;h2&gt;oom organization and labeling&lt;/h2&gt;
+&lt;h2&gt;Room organization and labeling&lt;/h2&gt;
 
 &lt;p&gt;Wilson and Robert continued to label every bin of parts we have. They also set up the new file folders and holders that will hold our rough design ideas and hand drawn sketches.&lt;/p&gt;
 

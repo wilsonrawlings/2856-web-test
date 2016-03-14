@@ -1,0 +1,54 @@
+---
+layout:     post
+title:      "Preseason Session #4"
+subtitle:   "Focus of The Day: Research Optimal Design"
+date:       2015-09-08 20:04:12
+---
+
+<h2>Read Section D of the Game Manual</h2>
+
+<p>We want to make sure that the team knows everything available to us in terms of materials. This will give us the most possibilities when building and programming the robot.</p>
+
+<p>What we can use:</p>
+
+<p>8 motors and 12 servos (new approved motors)</p>
+<p>Bring our own controllers</p>
+<p>Red = +, Black = -</p>
+<p>Gopros for our own entertainment (only for post match enjoyment)</p>
+<p>3D printed parts are approved if you make them</p>
+<p>1 degree of freedom limitation</p>
+<p>As long as we can easily buy it, we can basically use anything - planetary gear trains, guide rails, carriages, carbon fiber, elastic fabric, rubber, shrink wrap
+<p>Don’t modify electronics</p>
+<p>USB surge protector (for static problems?)</p>
+<p>Ferrite Beads</p>
+
+
+<img src="{{ site.baseurl }}/img/post4-1.jpg" alt="manual" width="50%">
+<span style="text-align: left;" class="caption text-muted">Game Manual Section D.</span>
+
+<hr>
+
+<h2>Research other team’s design processes using engineering notebooks</h2>
+
+<p>Willy found some of the best engineering notebooks in the world. Our team used them to analyze other team’s design processes and how to replicate them. In addition, we scouted how their notebooks looked and how we can use them for inspiration.</p>
+
+<p>Software prototyping:</p>
+<p>Throwaway or evolutionary</p> 
+<p>Throw away - learn from it and create a different finished product</p> 
+<p>Evolutionary - create a better product and evolve that into your final</p>
+<p>Limitations - sensors</p> 
+<p>Use integrated phone sensors (can we use the phone camera?) - color and shape</p>
+
+<p>Physical prototyping:</p>
+<p>Build entire robot out of thin wood, went to the first competition with it, then manufactured
+Oly Cows did this too, did all competitions with basic robot while the rest of the group was CADing and preparing another robot for January 
+One team uses an app to show CAD projects in real life - Edrawings</p>
+
+<img src="{{ site.baseurl }}/img/post4-2.jpg" alt="research" width="50%">
+<span style="text-align: left;" class="caption text-muted">Researching Other Teams and Ideas.</span>
+
+<hr>
+
+<h2>Learning about the mill</h2>
+
+<p>SAAS Robotics, in addition to having a new space, has some new technology. Gerald used some time today to teach us how the mill works. It’s very interesting and will definitely help us in the next year! We learned how to set it up and what it can be used for (very precise cuts and holes).</p>
