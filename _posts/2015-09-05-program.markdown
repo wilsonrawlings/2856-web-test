@@ -11,7 +11,7 @@ date:       2015-09-05 20:04:12
 
 <p>Sensor accessing: Matt worked on getting sensors to work on the Android format. We could move the robot based on whether the button was pressed. Isaac worked on getting access to the phone sensors.</p>
 
-<img src="{{ site.baseurl }}/img/post3-1.jpg" alt="programmers">
+<img src="{{ site.baseurl }}/img/post3-1.jpg" alt="programmers" width="50%">
 <span style="text-align: left;" class="caption text-muted">The Programmers Woring Together.</span>
 
 <hr>
@@ -20,7 +20,7 @@ date:       2015-09-05 20:04:12
 
 <p>Wilson and Robert continued to label every bin of parts we have. They also set up the new file folders and holders that will hold our rough design ideas and hand drawn sketches.</p>
 
-<img src="{{ site.baseurl }}/img/post3-2.jpg" alt="labels">
+<img src="{{ site.baseurl }}/img/post3-2.jpg" alt="labels" width="50%">
 <span style="text-align: left;" class="caption text-muted">The Labels That Robert and Wilson Have Printed.</span>
 
 <hr>
@@ -29,7 +29,7 @@ date:       2015-09-05 20:04:12
 
 <p>Samin printed parts for the scissor lift. He is continuing his off season project to get a working scissor lift for the club. This could be used in future seasons if 2856 or any other team needs one.</p>
 
-<img src="{{ site.baseurl }}/img/post3-3.jpg" alt="samin working">
+<img src="{{ site.baseurl }}/img/post3-3.jpg" alt="samin working" width="50%">
 <span style="text-align: left;" class="caption text-muted">Samin Working on Scissor Lift.</span>
 
 <hr>

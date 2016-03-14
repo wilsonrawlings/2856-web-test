@@ -10,7 +10,7 @@ date:       2015-09-02 20:04:12
 <p>Today Wilson and Robert worked on labeling all the bins holding the new bolts and nuts we ordered. Yesterday, the new sized bolts arrived. This year, the team is going to be using 6-32, 10-32, and 1/4 - 20 bolts. They sorted the regular and nylock nuts for each of these sizes as well. </p>
 
 
-<img src="{{ site.baseurl }}/img/post2-1.jpg" alt="sorting">
+<img src="{{ site.baseurl }}/img/post2-1.jpg" alt="sorting" width="50%">
 <span style="text-align: left;" class="caption text-muted">Wilson Sorting the Nuts and Bolts.</span>
 
 <hr>
@@ -19,7 +19,7 @@ date:       2015-09-02 20:04:12
 
 <p>Yesterday, the team worked on drawing out where everything will go on the pegboard. Today, Shanti and Caleigh started to hang it! There were some trouble finding the support beams, but they finally were able to mount them. The pegboard hasn't been hung yet because of this trouble.</p>
 
-<img src="{{ site.baseurl }}/img/post2-2.jpg" alt="hanging">
+<img src="{{ site.baseurl }}/img/post2-2.jpg" alt="hanging" width="50%">
 <span style="text-align: left;" class="caption text-muted">Hanging Wood For Pegboard.</span>
 
 <hr>
@@ -34,5 +34,5 @@ date:       2015-09-02 20:04:12
 
 <p>The computer for the laser cutter was near the lathe, where metal shaving could ruin it. Our team originally thought it would be helpful to have it near the lathe, but after thinking, we chose to move it to a safer spot. Armon worked on moving the computer to the main room instead.</p>
 
-<img src="{{ site.baseurl }}/img/post2-3.jpg" alt="armon.">
+<img src="{{ site.baseurl }}/img/post2-3.jpg" alt="armon." width="50%">
 <span style="text-align: left;" class="caption text-muted">Armon Measuring For Laser Installation.</span>
