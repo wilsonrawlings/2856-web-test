@@ -5,9 +5,90 @@
     <description>The Webpage for Red Shift Robotics&#39; 2856 Tesseract.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 13 Mar 2016 22:47:10 -0700</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2016 22:47:10 -0700</lastBuildDate>
+    <pubDate>Sun, 13 Mar 2016 22:59:43 -0700</pubDate>
+    <lastBuildDate>Sun, 13 Mar 2016 22:59:43 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Session #5</title>
+        <description>&lt;h2&gt;The modification and end of the Flipping Tank drive&lt;/h2&gt;
+
+&lt;p&gt;Today Shanti and Wilson worked on perfecting their flipping tank drive prototype. Wilson and Shanti replace the orange flippers with latex tubing attached with zip ties.&lt;/p&gt;
+
+&lt;p&gt;This idea ended up not working, because there was no traction on the ramp, and the latex tubing wasn’t helping.&lt;/p&gt;
+
+&lt;p&gt;They are now going to move on from this design.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Taping the new Field and adding the Zipliners&lt;/h2&gt;
+
+&lt;p&gt;Ellie and Robert worked on adding the red and blue tape to the field. This tape is really important because it marks the scoring boxes and the red and blue sides of the field.&lt;/p&gt;
+
+&lt;p&gt;Attaching the zipliners proved to be hard, but they were able to get 1 side completely set up! They found that some tweaking needed to get done in order for the zipliners to be fully released when the switch was hit.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post5-1.jpg&quot; alt=&quot;zipliner mount&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;The Zipliners Mounted to the Top of the Mountain.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Image Processing for Beacon Color&lt;/h2&gt;
+
+&lt;p&gt;Matt made the image processing more precise by adding a larger point cloud. Now it can tell the position (color) of the Res-Q beacon.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Magnetometer testing&lt;/h2&gt;
+
+&lt;p&gt;Today Isaac did testing today with the magnetometer. He found out that we could not reliably use the magnetometer because there would be too much interference with motors. After gathering and plotting the data, he ultimately determined that the motors would need to be 10 inches from the phone in order to work well. In the 18x18x18 sizing cube, this wouldn’t be practical.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Sep 2015 13:04:12 -0700</pubDate>
+        <link>localhost:4000/2015/09/23/prototypes/</link>
+        <guid isPermaLink="true">localhost:4000/2015/09/23/prototypes/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Session #4</title>
+        <description>&lt;h2&gt;Flipping Tank Drive&lt;/h2&gt;
+
+&lt;p&gt;Wilson and Shanti worked on modifying and testing their flipping tank drive. They talked about ideas to make the drive better. They continued to research tank drive treads and emailed a company to ask for samples.&lt;/p&gt;
+
+&lt;p&gt;The flipping tank drive was able to drive up all the bars, but it still has trouble getting from the floor to the ramp. There isn’t enough traction to do this, so they are continuing to think of ways for the robot to make it to the top by itself.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post4-2.jpg&quot; alt=&quot;tank on mountain&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Shanti Next To Flippin Tank Drive on Top Of The Mountain.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Sled Final Testing&lt;/h2&gt;
+
+&lt;p&gt;Armon and Peter finished testing their sled design. Their sled design was able to slide down the base from the top. They hope this can make the robot get to the ground faster, but some more testing is need.&lt;/p&gt;
+
+&lt;p&gt;They are going to continue to build a better and more solid design (instead of PVC).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post4-1.jpg&quot; alt=&quot;sled tank&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Testing out The Sled Chassis.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;PID control that uses Gyro&lt;/h2&gt;
+
+&lt;p&gt;Isaac started getting readings, but he discovered a bug that prevented him from getting them sometimes. He will need to work on his Gyro to fix it.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;GIT presentation for the FTC workshop&lt;/h2&gt;
+
+&lt;p&gt;AJ worked on debugging issues in the new platform. He found a joystick recognition problem and worked on fixing. They ended up resetting the phones to factory condition to fix it.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Sep 2015 13:04:12 -0700</pubDate>
+        <link>localhost:4000/2015/09/22/prototypes/</link>
+        <guid isPermaLink="true">localhost:4000/2015/09/22/prototypes/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Session #3</title>
