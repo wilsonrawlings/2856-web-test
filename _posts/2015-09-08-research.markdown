@@ -23,7 +23,7 @@ date:       2015-09-08 20:04:12
 <p>Ferrite Beads</p>
 
 
-<img src="{{ site.baseurl }}/img/post4-1.jpg" alt="manual" width="50%">
+<img src="{{ site.baseurl }}/img/prepost4-1.jpg" alt="manual" width="50%">
 <span style="text-align: left;" class="caption text-muted">Game Manual Section D.</span>
 
 <hr>
@@ -44,7 +44,7 @@ date:       2015-09-08 20:04:12
 Oly Cows did this too, did all competitions with basic robot while the rest of the group was CADing and preparing another robot for January 
 One team uses an app to show CAD projects in real life - Edrawings</p>
 
-<img src="{{ site.baseurl }}/img/post4-2.jpg" alt="research" width="50%">
+<img src="{{ site.baseurl }}/img/prepost4-2.jpg" alt="research" width="50%">
 <span style="text-align: left;" class="caption text-muted">Researching Other Teams and Ideas.</span>
 
 <hr>

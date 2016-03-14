@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "Session #1"
+subtitle:   "Focus of The Day: Game Strategy"
+date:       2015-09-15 20:04:12
+---
+
+<h2>Game Strategy Planning</h2>
+
+<p>We find it helpful to start by planning out how our strategy is going to look this year. 2856 made two goals: our initial and our final goal. Our initial goal is what our robot will be able to do at the first league competition and our final goal is our State/Super Regional robot. This will allow us to create an arc throughout the season. When we are working on our initial robot, that doesn’t have to do much, we will still be on the way to creating our final robot.</p>
+
+<p>We created this strategy by looking at the point values and the low-hanging fruit that everyone will be going for in the first couple matches. From our experience at Super Regionals last year, we know that the robots there can do everything and fast. We found the best way to get as many points as possible. Our team timed out how long it will take us to collect debris and fill up the boxes during Teleop (as seen below). This is what we will shoot for, although there is a little leeway too.</p>
+
+<img src="{{ site.baseurl }}/img/post1-1.jpg" alt="board" width="50%">
+<span style="text-align: left;" class="caption text-muted">Board With Strategy Ideas On It.</span>
+
+<hr>
+
+<h2>Wilson’s Birthday!</h2>
+
+<p>Wilson’s mom showed up and told everyone that it is Wilson’s birthday! We sent Wilson and AJ to find a shop-vac in order to divert him and set up the cupcakes with two giant candles in them! After a very long time, they finally came back and everyone sang Wilson happy birthday! And ate cupcakes :-).</p>

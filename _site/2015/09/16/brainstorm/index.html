@@ -10,9 +10,9 @@
     <link rel="icon" href="img/tess.png">
 
 
-    <title>Preseason Session #2 - 2856 Tesseract</title>
+    <title>Session #2 - 2856 Tesseract</title>
 
-    <link rel="canonical" href="localhost:4000/2015/09/02/roomorg/">
+    <link rel="canonical" href="localhost:4000/2015/09/16/brainstorm/">
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
@@ -89,11 +89,11 @@
        <div class="row">
 			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 		                <div class="post-heading">
-		                    <h1 class="post-h1">Preseason Session #2</h1>
+		                    <h1 class="post-h1">Session #2</h1>
 		                    
-		                    <h2 class="subheading">Focus of The Day: Room Organization</h2>
+		                    <h2 class="subheading">Focus of The Day: Dedicated Brainstorming</h2>
 		                    
-		                    <span class="meta">Posted on September 2, 2015</span>
+		                    <span class="meta">Posted on September 16, 2015</span>
 		                </div>
 		 	</div>
 		 </div>
@@ -113,36 +113,59 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-				<h2>Organizing bolts and nuts as well as labeling new bin system.</h2>
+				<h1>What does the robot need to be able to do?</h1>
 
-<p>Today Wilson and Robert worked on labeling all the bins holding the new bolts and nuts we ordered. Yesterday, the new sized bolts arrived. This year, the team is going to be using 6-32, 10-32, and 1/4 - 20 bolts. They sorted the regular and nylock nuts for each of these sizes as well. </p>
+<p>This is the first step of our engineering process. As a group, we are figuring out exactly what our goal is, both immediate and final. </p>
 
-<p><img src="/img/prepost2-1.jpg" alt="sorting" width="50%" />
-<span style="text-align: left;" class="caption text-muted">Wilson Sorting the Nuts and Bolts.</span></p>
+<p>Our goals are what we need to do and time it might take. We are designing to specs. We want to be able to measure when we meet our goals.</p>
 
-<hr />
+<p>This will be helpful in the future when comparing which prototype is better.</p>
 
-<h2>anging up our tool Pegboard in the back of the room.</h2>
-
-<p>Yesterday, the team worked on drawing out where everything will go on the pegboard. Today, Shanti and Caleigh started to hang it! There were some trouble finding the support beams, but they finally were able to mount them. The pegboard hasn't been hung yet because of this trouble.</p>
-
-<p><img src="/img/prepost2-2.jpg" alt="hanging" width="50%" />
-<span style="text-align: left;" class="caption text-muted">Hanging Wood For Pegboard.</span></p>
+<p><img src="/img/post2-1.jpg" alt="board" width="50%" />
+<span style="text-align: left;" class="caption text-muted">Room, with SMARTBOARD and Whiteboard with ideas on them.</span></p>
 
 <hr />
 
-<h2>Fixing the 3D printer</h2>
+<h1>Mechanism brainstorm</h1>
 
-<p>Samin cleaned out the extruder motor of the 3D printer, redid the wiring, and installed a new stepper extruder. He also replaced the capton tape which was out and needed to be replaced.</p>
+<p>We needed to get our ideas on paper. We came up with an idea to build the general chassis and prototype different ways of movement. This is completely new for our team.</p>
+
+<p><img src="/img/post2-2.jpg" alt="board" width="50%" />
+<span style="text-align: left;" class="caption text-muted">Whiteboard with Mechanism Ideas.</span></p>
 
 <hr />
 
-<h2>Robotics lab room set up: laser cutter</h2>
+<h1>Tank tread prototyping</h1>
 
-<p>The computer for the laser cutter was near the lathe, where metal shaving could ruin it. Our team originally thought it would be helpful to have it near the lathe, but after thinking, we chose to move it to a safer spot. Armon worked on moving the computer to the main room instead.</p>
+<p>Shanti and Wilson worked on building preliminary tank treads to test. Currently, Tetrix is a pain. The current treads will be very basic. They are in the middle of working on it right now.</p>
 
-<p><img src="/img/prepost2-3.jpg" alt="armon." width="50%" />
-<span style="text-align: left;" class="caption text-muted">Armon Measuring For Laser Installation.</span></p>
+<p>They are using Tetrix, plastic sprockets and plastic tank treads to test. There wasn’t much time to test, but the one side that had been constructed looked to work fairly well. There is no traction right now.</p>
+
+<p>Next meeting, the other side has to be built and the treads need to be tested more.</p>
+
+<p><img src="/img/post2-3.jpg" alt="board" width="50%" />
+<span style="text-align: left;" class="caption text-muted">Whiteboard with Mechanism Ideas.</span></p>
+
+<hr />
+
+<h1>Image processing</h1>
+
+<p>Matt and AJ worked on the particular elements of image processing that will be needed to identify the beacon in autonomous. In particular, they started work on a program that will be able identify a blue region, isolate all the image processing work to the relevant region of the bitmap, and then identify the black button. While OpenCV is a powerful framework, it seems like it may be overkill for this particular problem. It also suffers from poor documentation, along with the fact that the OpenCV API was obviously ported straight from C, and so retains some idiosyncrasies from C that a native Java API would not force the programmer to deal with.</p>
+
+<p><img src="/img/post2-4.jpg" alt="coders" width="50%" />
+<span style="text-align: left;" class="caption text-muted">Coders Working on Image Processing.</span></p>
+
+<hr />
+
+<h1>Prototyping a fan</h1>
+
+<p>Isaac did a test by blowing air on the balls and they rolled away well. So, he figured that it could be scaled up and a fan could do the same thing. He began by designing a good gear ratio to spin the fan as fast as possible. The ratio is 9:1. By accident, he geared at backwards so it actually went 9 times slower, but that was easily fixed.
+He constructed it by heating some ABS and bending it into a propeller, using Tetrix for speed. He tested on the field and he was able to blow some of the balls, but one of the balls surrounded by a couple cubes would not move. </p>
+<p>Whether this was the way the ball was on the floor or because it was surrounded needs to be tested in the future. 
+He is building another iteration with four times more speed that will hopefully be able to blow balls even when they’re in different orientations. </p>
+
+<p><img src="/img/post2-5.jpg" alt="fan" width="50%" />
+<span style="text-align: left;" class="caption text-muted">Isaac Making a Fan.</span></p>
 
 
                 <hr>
@@ -150,13 +173,9 @@
                 <ul class="pager">
                     
                     <li class="previous">
-                        <a href="/2015/09/01/movein/" data-toggle="tooltip" data-placement="top" title="Preseason Session #1">&larr; Previous Post</a>
+                        <a href="/2015/09/15/strategy/" data-toggle="tooltip" data-placement="top" title="Session #1">&larr; Previous Post</a>
                     </li>
                     
-                    
-                    <li class="next">
-                        <a href="/2015/09/05/program/" data-toggle="tooltip" data-placement="top" title="Preseason Session #3">Next Post &rarr;</a>
-                    </li>
                     
                 </ul>
 
