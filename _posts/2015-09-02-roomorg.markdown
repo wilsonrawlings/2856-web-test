@@ -1,0 +1,38 @@
+---
+layout:     post
+title:      "Preseason Session #2"
+subtitle:   "Focus of The Day: Room Organization"
+date:       2015-09-02 20:04:12
+---
+
+<h2>Organizing bolts and nuts as well as labeling new bin system.</h2>
+
+<p>Today Wilson and Robert worked on labeling all the bins holding the new bolts and nuts we ordered. Yesterday, the new sized bolts arrived. This year, the team is going to be using 6-32, 10-32, and 1/4 - 20 bolts. They sorted the regular and nylock nuts for each of these sizes as well. </p>
+
+
+<img src="{{ site.baseurl }}/img/post2-1.jpg" alt="sorting">
+<span style="text-align: left;" class="caption text-muted">Wilson Sorting the Nuts and Bolts.</span>
+
+<hr>
+
+<h2>anging up our tool Pegboard in the back of the room.</h2>
+
+<p>Yesterday, the team worked on drawing out where everything will go on the pegboard. Today, Shanti and Caleigh started to hang it! There were some trouble finding the support beams, but they finally were able to mount them. The pegboard hasn't been hung yet because of this trouble.</p>
+
+<img src="{{ site.baseurl }}/img/post2-2.jpg" alt="hanging">
+<span style="text-align: left;" class="caption text-muted">Hanging Wood For Pegboard.</span>
+
+<hr>
+
+<h2>Fixing the 3D printer</h2>
+
+<p>Samin cleaned out the extruder motor of the 3D printer, redid the wiring, and installed a new stepper extruder. He also replaced the capton tape which was out and needed to be replaced.</p>
+
+<hr>
+
+<h2>Robotics lab room set up: laser cutter</h2>
+
+<p>The computer for the laser cutter was near the lathe, where metal shaving could ruin it. Our team originally thought it would be helpful to have it near the lathe, but after thinking, we chose to move it to a safer spot. Armon worked on moving the computer to the main room instead.</p>
+
+<img src="{{ site.baseurl }}/img/post2-3.jpg" alt="armon.">
+<span style="text-align: left;" class="caption text-muted">Armon Measuring For Laser Installation.</span>

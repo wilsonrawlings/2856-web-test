@@ -1,0 +1,39 @@
+---
+layout:     post
+title:      "Preseason Session #3"
+subtitle:   "Focus of The Day: Programming Work"
+date:       2015-09-05 20:04:12
+---
+
+<h2>Programming and Java implementation</h2>
+
+<p>AwesomeDrive: Today AJ and Isaac worked on implementing AwesomeDrive, a program that could replace the tank drive. They wanted to get the feeling of how the programs worked in the new format (Android).</p>
+
+<p>Sensor accessing: Matt worked on getting sensors to work on the Android format. We could move the robot based on whether the button was pressed. Isaac worked on getting access to the phone sensors.</p>
+
+<img src="{{ site.baseurl }}/img/post3-1.jpg" alt="programmers">
+<span style="text-align: left;" class="caption text-muted">The Programmers Woring Together.</span>
+
+<hr>
+
+<h2>oom organization and labeling</h2>
+
+<p>Wilson and Robert continued to label every bin of parts we have. They also set up the new file folders and holders that will hold our rough design ideas and hand drawn sketches.</p>
+
+<img src="{{ site.baseurl }}/img/post3-2.jpg" alt="labels">
+<span style="text-align: left;" class="caption text-muted">The Labels That Robert and Wilson Have Printed.</span>
+
+<hr>
+
+<h2>3D Printing parts for scissor lift</h2>
+
+<p>Samin printed parts for the scissor lift. He is continuing his off season project to get a working scissor lift for the club. This could be used in future seasons if 2856 or any other team needs one.</p>
+
+<img src="{{ site.baseurl }}/img/post3-3.jpg" alt="samin working">
+<span style="text-align: left;" class="caption text-muted">Samin Working on Scissor Lift.</span>
+
+<hr>
+
+<h2>New Notebook format presentation.</h2>
+
+<p>Wilson and Robert met with our mentor Willy to discuss this year’s outreach. They worked on planning our outreach events and expanding what we did last year. They thought about visiting middle schools in our area, and discussed a partnership with Jane Adams middle school to help the school’s FLL team.</p>
