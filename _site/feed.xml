@@ -5,13 +5,143 @@
     <description>The Webpage for Red Shift Robotics&#39; 2856 Tesseract.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 13 Mar 2016 22:22:26 -0700</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2016 22:22:26 -0700</lastBuildDate>
+    <pubDate>Sun, 13 Mar 2016 22:47:10 -0700</pubDate>
+    <lastBuildDate>Sun, 13 Mar 2016 22:47:10 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
+        <title>Session #3</title>
+        <description>&lt;h2&gt;Chassis Prototype Idea 1: Flippin Tank Drive&lt;/h2&gt;
+
+&lt;p&gt;Wilson worked on prototyping a tank drive chassis with Tetrix tank treads and urethane flippers for traction. He did a preliminary test in the morning after completing one side of the flippers and it seemed to work well, so he continued with the second side.&lt;/p&gt;
+
+&lt;p&gt;At the end of the day, Wilson did a final tank drive test with both sides of the flippers. He found that getting up the very first part of the ramp is hard because there is no traction. The flipper design was a 1/3 success because it fell apart at places and it wasn’t too great at moving.&lt;/p&gt;
+
+&lt;p&gt;The idea for the flippers is that they will support the robot on the ground as well as let the robot climb the mountain. The mountain is proving to be tricky to climb, however, because the angle change from ground level to the angle of the mountain is large.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post3-1.jpg&quot; alt=&quot;tank&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Close up View of Flippin Tank Drive.&lt;/span&gt;
+&lt;img src=&quot;/img/post3-2.jpg&quot; alt=&quot;wilson and tank&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Wilson Woring On The Field With Flippin Tank Drive.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;hassis Prototype Idea 2: Sled Mechanism&lt;/h2&gt;
+
+&lt;p&gt;Armon and Peter worked on a sled design. This idea will help us go down the ramp faster. The sled will work by having two PVC pipes on the sides of the robot be able to come down to act as sled runners to get us back to the floor of the field.&lt;/p&gt;
+
+&lt;p&gt;Armon and Peter haven’t finished the sled prototype yet, and they are gonna continue to work on it throughout this coming week.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post3-3.jpg&quot; alt=&quot;armon working&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Armon Working On The Sled Chassis.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Backlog work&lt;/h2&gt;
+
+&lt;p&gt;We worked on getting our backlog system up and running. We started writing tasks that we wanted to start working on soon, as well as tasks that were currently in progress. We have different colored slips of paper for each team’s tasks. This year, we want to be able to move tasks along the backlog depending on how close we are to completion.&lt;/p&gt;
+
+&lt;p&gt;Our team’s paper color is orange.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post3-4.jpg&quot; alt=&quot;backlog&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Our New Colorful Backlog.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Mill instructions&lt;/h2&gt;
+
+&lt;p&gt;Shanti and Samin continued to learn how to use the mill. Gerald gave them a lesson for about an hour to make sure they know how to use the mill safely. They practiced by milling a new bracket for a servo.&lt;/p&gt;
+
+&lt;p&gt;Our new machining room is a great place for safe machining work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post3-5.jpg&quot; alt=&quot;mill lesson&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Samin and Shanti Learning The Ways of The Mill.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Setting up New Field (Res-Q)&lt;/h2&gt;
+
+&lt;p&gt;Maddy worked on putting the Res-Q field together. One of the mountains is mostly put together so far. This field proved to be sort of hard to put together, so we will continue it throughout this week.&lt;/p&gt;
+
+&lt;p&gt;In our new room, we can have a permanent field set up! In previous years in our old room, we had to set up the field at the beginning of practice if we wanted to use it and then take it down at the end. This took a lot of time out of our practice. This field would have been very hard to move every practice, and so it is great we can have it set up permanently!&lt;/p&gt;
+
+&lt;p&gt;Having the Res-Q field set up soon will also allow us to do great prototype testing like we did today!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post3-6.jpg&quot; alt=&quot;field&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Setting up The New Field.&lt;/span&gt;
+&lt;img src=&quot;/img/post3-7.jpg&quot; alt=&quot;field&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Setting up The New Field.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Fan Mechanism&lt;/h2&gt;
+
+&lt;p&gt;Isaac continued to work on his ball blowing fan mechanism. The gear ratio was increased by 400%, and he upgraded to a more powerful AndyMark motor. It was much more effective, and all the balls were blown out of the cube cluster at a distance of approximately two feet.&lt;/p&gt;
+
+&lt;p&gt;This design will be helpful because we plan to only collect cubes for this game because it is a more efficient scoring item (more can fit in each bin).&lt;/p&gt;
+
+&lt;p&gt;Next practice, Isaac hopes to make the mechanism more concentrated by having the fan blow through the tube so balls in front of the robot move out of the way. He will also be CADing this design.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post3-8.jpg&quot; alt=&quot;fan&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Isaac Continues Work On The Fan.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Tread Research&lt;/h2&gt;
+
+&lt;p&gt;Santi researched tank treads that we could use for our robot. In her research, she requested a quote from a company that sells tread belts.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;High Clearance Chassis&lt;/h2&gt;
+
+&lt;p&gt;Samin worked on a chassis that had high clearance that was meant to be able to go over debri on the field. This chassis had large wheels that were supposed to go up the mountain as well. This design ended up not working because the wheels were not big enough to go up the mountain. Samin wasn’t able to finish it today, but he does not plan to finish this prototype because it proved not to work.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Flipper Code&lt;/h2&gt;
+
+&lt;p&gt;AJ worked on various club level things. He wrote some prototype code for Wilson’s flipper design.&lt;/p&gt;
+
+&lt;p&gt;AJ also worked writing some code goals in the backlog. The coders discussed what their priorities were, and how long they thought tasks would take.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post3-9.jpg&quot; alt=&quot;aj&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;AJ Coding a Basic OPMode for Wilson.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Android phone camera&lt;/h2&gt;
+
+&lt;p&gt;Matt worked on programming a test application that could retrieve an image from the camera of the Android phone. He is now working on using it to detect what position the button is in.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Project Design and Backlog Presentation&lt;/h2&gt;
+
+&lt;p&gt;Duncan’s dad came in to help us with our backlog setup. He is a product manager, so he gave a presentation how to use the backlog while in the design process. Duncan’s father also worked with Maddy to help her set up the field.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post3-10.jpg&quot; alt=&quot;presentation&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Duncan’s Dad Presenting To Us.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Safety Presentation and Information&lt;/h2&gt;
+
+&lt;p&gt;Gerald gave a safety presentation today regarding the mill, saws, and cutting tools we have. In his presentation, Gerald talked about the importance of not having loose clothing and tying hair back. He also gave some rules for using the room which will help to keep us safe while using these tools to make specialized parts.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post3-11.jpg&quot; alt=&quot;gerald&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Gerald Presenting on Saftey.&lt;/span&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Sep 2015 13:04:12 -0700</pubDate>
+        <link>localhost:4000/2015/09/19/prototype/</link>
+        <guid isPermaLink="true">localhost:4000/2015/09/19/prototype/</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Session #2</title>
-        <description>&lt;h1&gt;What does the robot need to be able to do?&lt;/h1&gt;
+        <description>&lt;h2&gt;What does the robot need to be able to do?&lt;/h2&gt;
 
 &lt;p&gt;This is the first step of our engineering process. As a group, we are figuring out exactly what our goal is, both immediate and final. &lt;/p&gt;
 
@@ -24,7 +154,7 @@
 
 &lt;hr /&gt;
 
-&lt;h1&gt;Mechanism brainstorm&lt;/h1&gt;
+&lt;h2&gt;Mechanism brainstorm&lt;/h2&gt;
 
 &lt;p&gt;We needed to get our ideas on paper. We came up with an idea to build the general chassis and prototype different ways of movement. This is completely new for our team.&lt;/p&gt;
 
@@ -33,7 +163,7 @@
 
 &lt;hr /&gt;
 
-&lt;h1&gt;Tank tread prototyping&lt;/h1&gt;
+&lt;h2&gt;Tank tread prototyping&lt;/h2&gt;
 
 &lt;p&gt;Shanti and Wilson worked on building preliminary tank treads to test. Currently, Tetrix is a pain. The current treads will be very basic. They are in the middle of working on it right now.&lt;/p&gt;
 
@@ -46,7 +176,7 @@
 
 &lt;hr /&gt;
 
-&lt;h1&gt;Image processing&lt;/h1&gt;
+&lt;h2&gt;Image processing&lt;/h2&gt;
 
 &lt;p&gt;Matt and AJ worked on the particular elements of image processing that will be needed to identify the beacon in autonomous. In particular, they started work on a program that will be able identify a blue region, isolate all the image processing work to the relevant region of the bitmap, and then identify the black button. While OpenCV is a powerful framework, it seems like it may be overkill for this particular problem. It also suffers from poor documentation, along with the fact that the OpenCV API was obviously ported straight from C, and so retains some idiosyncrasies from C that a native Java API would not force the programmer to deal with.&lt;/p&gt;
 
@@ -55,7 +185,7 @@
 
 &lt;hr /&gt;
 
-&lt;h1&gt;Prototyping a fan&lt;/h1&gt;
+&lt;h2&gt;Prototyping a fan&lt;/h2&gt;
 
 &lt;p&gt;Isaac did a test by blowing air on the balls and they rolled away well. So, he figured that it could be scaled up and a fan could do the same thing. He began by designing a good gear ratio to spin the fan as fast as possible. The ratio is 9:1. By accident, he geared at backwards so it actually went 9 times slower, but that was easily fixed.
 He constructed it by heating some ABS and bending it into a propeller, using Tetrix for speed. He tested on the field and he was able to blow some of the balls, but one of the balls surrounded by a couple cubes would not move. &lt;/p&gt;

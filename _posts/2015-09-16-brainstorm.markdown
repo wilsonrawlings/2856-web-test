@@ -5,7 +5,7 @@ subtitle:   "Focus of The Day: Dedicated Brainstorming"
 date:       2015-09-16 20:04:12
 ---
 
-<h1>What does the robot need to be able to do?</h1>
+<h2>What does the robot need to be able to do?</h2>
 
 <p>This is the first step of our engineering process. As a group, we are figuring out exactly what our goal is, both immediate and final. </p>
 
@@ -18,7 +18,7 @@ date:       2015-09-16 20:04:12
 
 <hr>
 
-<h1>Mechanism brainstorm</h1>
+<h2>Mechanism brainstorm</h2>
 
 <p>We needed to get our ideas on paper. We came up with an idea to build the general chassis and prototype different ways of movement. This is completely new for our team.</p>
 
@@ -27,7 +27,7 @@ date:       2015-09-16 20:04:12
 
 <hr>
 
-<h1>Tank tread prototyping</h1>
+<h2>Tank tread prototyping</h2>
 
 <p>Shanti and Wilson worked on building preliminary tank treads to test. Currently, Tetrix is a pain. The current treads will be very basic. They are in the middle of working on it right now.</p>
 
@@ -40,7 +40,7 @@ date:       2015-09-16 20:04:12
 
 <hr>
 
-<h1>Image processing</h1>
+<h2>Image processing</h2>
 
 <p>Matt and AJ worked on the particular elements of image processing that will be needed to identify the beacon in autonomous. In particular, they started work on a program that will be able identify a blue region, isolate all the image processing work to the relevant region of the bitmap, and then identify the black button. While OpenCV is a powerful framework, it seems like it may be overkill for this particular problem. It also suffers from poor documentation, along with the fact that the OpenCV API was obviously ported straight from C, and so retains some idiosyncrasies from C that a native Java API would not force the programmer to deal with.</p>
 
@@ -49,7 +49,7 @@ date:       2015-09-16 20:04:12
 
 <hr>
 
-<h1>Prototyping a fan</h1>
+<h2>Prototyping a fan</h2>
 
 <p>Isaac did a test by blowing air on the balls and they rolled away well. So, he figured that it could be scaled up and a fan could do the same thing. He began by designing a good gear ratio to spin the fan as fast as possible. The ratio is 9:1. By accident, he geared at backwards so it actually went 9 times slower, but that was easily fixed.
 He constructed it by heating some ABS and bending it into a propeller, using Tetrix for speed. He tested on the field and he was able to blow some of the balls, but one of the balls surrounded by a couple cubes would not move. </p>
