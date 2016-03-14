@@ -14,5 +14,5 @@ instagram_username: 2856tesseract
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 100
+paginate: 7
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
