@@ -411,5 +411,10 @@ body {
     }
 
 .post-h1{
-  text-align: center;
+  font-size: 80px;
+}
+
+.post-head{
+  margin-top: 10%;
+  margin-left: 5%;
 }

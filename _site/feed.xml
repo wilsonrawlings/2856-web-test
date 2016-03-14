@@ -5,12 +5,12 @@
     <description>The Webpage for Red Shift Robotics&#39; 2856 Tesseract.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 13 Mar 2016 16:00:33 -0700</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2016 16:00:33 -0700</lastBuildDate>
+    <pubDate>Sun, 13 Mar 2016 17:08:13 -0700</pubDate>
+    <lastBuildDate>Sun, 13 Mar 2016 17:08:13 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Day 1</title>
+        <title>Meeting #1</title>
         <description>&lt;p&gt;Hello. This Is Post Number 1...&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 May 2015 13:04:12 -0700</pubDate>
