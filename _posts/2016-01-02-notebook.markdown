@@ -1,0 +1,34 @@
+---
+layout:     post
+title:      "Session #40"
+subtitle:   "Focus of The Day: Engineering Notebook Party!"
+date:       2016-01-02 20:04:12
+---
+
+<h2>Engineering notebook writing</h2>
+
+<p>Over the break, everyone was supposed to work on essays for the notebook. However, because everyone was busy, this didn’t really happen. We didn’t have a lot to work on today, so the whole team wrote most of their essays for the notebook. Samin wrote about hanging and worked on writing about the chassis, Shanti and Peter worked on writing about the scoring mechanism, and AJ revised what Isaac did for code.</p>
+
+<p>This will make sure the judges see an evolution of our robot and it will all be in one spot, making it easier to read.</p>
+
+<p>During this, Arielle revised and edited notebook posts that were already written and worked on posters. She also spoke with Willy about judging ideas, like using STAR to be a tagline.</p>
+
+<img src="{{ site.baseurl }}/img/post40-1.jpg" alt="aj" width="50%">
+<span style="text-align: left;" class="caption text-muted">AJ Writing Essays For The Notebook.</span>
+
+<hr>
+
+<h2>Faster autonomous</h2>
+
+<p>Isaac worked on making the autonomous faster. He suspects that in the league match, some robots will run blocking programs. The autonomous raises and lowers the back brace while it’s moving. It also sets the robot speed to 100%. This makes the autonomous take about 15 seconds instead of 30. He has also fixed some other bugs in the code. The second half of the day was spent getting the Motorola phone to work. He’s gotten small pieces of code running on it, but not the full autonomous program - the initialize routine works.</p>
+
+<p>He’s tested it with blocks and there seems to be no effect. It might be more susceptible to getting blocks under it, but in terms of accuracy, it seems to work well.</p>
+
+<hr>
+
+<h2>Pacfab chassis!</h2>
+
+<p>The chassis that Pacfab waterjet and welded for us finally arrived! We were so excited. Samin and Peter got a start on putting the gearbox on it. They filed down a little bit to fit the gear. We’re refraining from making large changes until Gerald is around to supervise. This chassis will not be used for interleague, but instead for state. Our current robot is already very good and reliable enough to use. We will not be taking it apart for the new chassis so we have a backup.</p>
+
+<img src="{{ site.baseurl }}/img/post40-2.jpg" alt="chassis" width="50%">
+<span style="text-align: left;" class="caption text-muted">2856 With The New Chassis.</span>

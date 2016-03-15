@@ -1,0 +1,59 @@
+---
+layout:     post
+title:      "Session #47"
+subtitle:   "Focus of The Day: Improving the Hanging Mechanism"
+date:       2016-01-20 20:04:12
+---
+
+<h2>Improving the hanging mechanism</h2>
+
+<p>Isaac and Matt worked on the new hanging mechanism. They did some tests earlier and found that a 2:1 gear ratio is needed, not an 8:1 ratio. This means we can move the hanging mechanism faster and it takes less time. They redesigned a smaller gearbox for it today. It’s about twice as compact as the old version and will hang the robot 4 times as fast.</p>
+
+<p>They used a spring force gauge and hooked up a 60:1 motor and pulled a string. This way, they found that alone would exert enough torque to pull the weight of our entire robot up. For safety, they decided to use a 2:1.</p>
+
+<p>They also added a servo to the hanging mechanism so we can adjust the angle. Now, we no longer have the use the back brace to adjust it and we can move the tape measure’s angle much slower, so it won’t break. Isaac is writing code for that currently. Their future plan is to mount it on the robot.</p>
+
+<img src="{{ site.baseurl }}/img/post47-1.jpg" alt="hang" width="50%">
+<span style="text-align: left;" class="caption text-muted">Working on the Hang Mechanism.</span>
+
+<hr>
+
+<h2>Resized the ball collector</h2>
+
+<p>Peter resized the ball collector. He drilled new holes so that it would be higher up. It has to be higher up so we can fit scoring mechanism higher up, so it scores correctly. The gears aren’t meshing well, so Peter is working on fixing it. </p>
+
+<img src="{{ site.baseurl }}/img/post47-2.jpg" alt="collector" width="50%">
+<span style="text-align: left;" class="caption text-muted">Ball Collector.</span>
+
+<hr>
+
+<h2>Better zipliner trigger</h2>
+
+<p>Samin and Armon made a mechanism to trigger the zipliners. This is similar to the King’s mechanism, in that it folds down and works reliably. It will work better than our current mechanism because it will be able to get the third zipliner and generally be more reliable.</p>
+
+<img src="{{ site.baseurl }}/img/post47-3.jpg" alt="zipliner" width="50%">
+<span style="text-align: left;" class="caption text-muted">New Zipliner Trigger.</span>
+
+<hr>
+
+<h2>Adding second motor to drive train</h2>
+
+<p>Wilson and Samin added a second motor to each side of the drive train for extra torque. Wilson also labeled sides of the robot and is prepared to do the electronics after everything has been mounted. Labeling the sides helps communicate which motors are plugged into where, helps communication between the drivers, and allows the judges to understand our robot better. His last point: it’s fun :-).</p>
+
+<img src="{{ site.baseurl }}/img/post47-4.jpg" alt="brace" width="50%">
+<span style="text-align: left;" class="caption text-muted">Back Brace.</span>
+
+<hr>
+
+<h2>Replaced back wheel</h2>
+
+<p>Samin replaced the back wheel with a different back wheel. It is a ninja-flex 3D printed back wheel. It is the same idea as our old treads, but works better repurposed for this.</p>
+
+<img src="{{ site.baseurl }}/img/post47-5.jpg" alt="wheel" width="50%">
+<span style="text-align: left;" class="caption text-muted">Back Brace Wheel.</span>
+
+<hr>
+
+<h2>Engineering notebook fixing</h2>
+
+<p>Although the notebook did well at Interleague, that does not mean it is done. Arielle worked on fixing formatting problems, revising and editing, and organized it in such a way that computer page numbering will be easier. In addition, she added all the daily logs to the table of contents for the sake of ease of reading. </p>

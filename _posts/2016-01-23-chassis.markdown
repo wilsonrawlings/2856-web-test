@@ -1,0 +1,34 @@
+---
+layout:     post
+title:      "Session #50"
+subtitle:   "Focus of The Day: Chassis Finalization"
+date:       2016-01-23 20:04:12
+---
+
+<h2>Chassis finalization</h2>
+
+<p>Everyone worked on finishing mounting all of the mechanisms. They moved the treads around to fix things, and replaced the drive train gears with a chain because it's way more reliable.</p>
+
+<img src="{{ site.baseurl }}/img/post50-1.jpg" alt="chassis" width="50%">
+<span style="text-align: left;" class="caption text-muted">Wiring on Chassis.</span>
+
+<hr>
+
+<h2>Code tuning</h2>
+
+<p>Matt and Isaac worked on code for the new chassis. They calibrated all of the servo values and ensured that all the configuration files were correct now that the new chassis is put together. Isaac also converted our old autonomous to the new chassis, although he didn't have time to test it, and he added a couple new features to teliop to support new mechanisms.</p>
+
+<img src="{{ site.baseurl }}/img/post50-2.jpg" alt="isaac" width="50%">
+<span style="text-align: left;" class="caption text-muted">Isaac Working on Code.</span>
+
+<hr>
+
+<h2>Electronics</h2>
+
+<p>Wilson, Samin and Isaac finished mounting the electronics. They then did some testing and fixed some problems with the organization of the wiring, since some wires were catching on parts of the robots. They also found new spots for some of the motor controllers. At the end of practice, Peter replaced the backbrace motor, which seemed to be broken.</p>
+
+<hr>
+
+<h2>Battery mount</h2>
+
+<p>Matt made a battery mount for the chassis. This allowed us to mount the battery in an out-of-the-way place on the chassis.</p>

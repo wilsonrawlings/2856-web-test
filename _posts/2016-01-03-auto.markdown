@@ -1,0 +1,44 @@
+---
+layout:     post
+title:      "Session #41"
+subtitle:   "Focus of The Day: Furthering the Autonomous"
+date:       2016-01-03 20:04:12
+---
+
+<h2>Work on the Autonomous</h2>
+
+<p>Isaac worked on upgrading our phone to the new Motorola phone. He also made a new laser printed case for it because the other did not fit.</p>
+
+<p>He also spent time working on fine tuning the autonomous. He made corrections and made it simpler from a coder’s standpoint. He did a few tests and was able to score more points by climbing the mountain. At its best it scores 15 points above what it used to score because now it goes to the high zone.</p>
+
+<img src="{{ site.baseurl }}/img/post41-1.jpg" alt="chassis" width="50%">
+<span style="text-align: left;" class="caption text-muted">2856 Sitting on the shelf.</span>
+
+<hr>
+
+<h2>Binder Work</h2>
+
+<p>Wilson researched fundraising ideas. He thought of making luggage tags that our team could sell. These would be red and white, and have our logo on them. He also worked on making our binder and adding the rings. Our binder is now ready for us to add the paper material.</p>
+
+<img src="{{ site.baseurl }}/img/post41-2.jpg" alt="binder" width="50%">
+<span style="text-align: left;" class="caption text-muted">The Wood Binder.</span>
+
+<hr>
+
+<h2>Cube collector to Cube distributer</h2>
+
+<p>Peter worked on the juncture between the cube collector and cube distributer. He also worked on adding stuff to our new Pac Fab chassis.</p>
+
+<img src="{{ site.baseurl }}/img/post41-3.jpg" alt="collector" width="50%">
+<span style="text-align: left;" class="caption text-muted">Block Collector.</span>
+
+<hr>
+
+<h2>Python practice and Powering the Mechanisms</h2>
+
+<p>Shanti worked on learning Python. She went through tutorials as well as doing a challenge that Isaac made for her to teach her more about it.</p>
+
+<p>She also worked on the movement between the collector and dumper. She then figured out how to power both the mechanisms with one motor.</p>
+
+<img src="{{ site.baseurl }}/img/post41-4.jpg" alt="teaching" width="50%">
+<span style="text-align: left;" class="caption text-muted">Isaac Teaching Shanti Python.</span>

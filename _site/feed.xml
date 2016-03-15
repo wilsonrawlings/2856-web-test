@@ -5,9 +5,285 @@
     <description>The Webpage for Red Shift Robotics&#39; 2856 Tesseract.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 14 Mar 2016 11:36:42 -0700</pubDate>
-    <lastBuildDate>Mon, 14 Mar 2016 11:36:42 -0700</lastBuildDate>
+    <pubDate>Mon, 14 Mar 2016 18:07:38 -0700</pubDate>
+    <lastBuildDate>Mon, 14 Mar 2016 18:07:38 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Session #50</title>
+        <description>&lt;h2&gt;Chassis finalization&lt;/h2&gt;
+
+&lt;p&gt;Everyone worked on finishing mounting all of the mechanisms. They moved the treads around to fix things, and replaced the drive train gears with a chain because it&#39;s way more reliable.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post50-1.jpg&quot; alt=&quot;chassis&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Wiring on Chassis.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Code tuning&lt;/h2&gt;
+
+&lt;p&gt;Matt and Isaac worked on code for the new chassis. They calibrated all of the servo values and ensured that all the configuration files were correct now that the new chassis is put together. Isaac also converted our old autonomous to the new chassis, although he didn&#39;t have time to test it, and he added a couple new features to teliop to support new mechanisms.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post50-2.jpg&quot; alt=&quot;isaac&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Isaac Working on Code.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Electronics&lt;/h2&gt;
+
+&lt;p&gt;Wilson, Samin and Isaac finished mounting the electronics. They then did some testing and fixed some problems with the organization of the wiring, since some wires were catching on parts of the robots. They also found new spots for some of the motor controllers. At the end of practice, Peter replaced the backbrace motor, which seemed to be broken.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Battery mount&lt;/h2&gt;
+
+&lt;p&gt;Matt made a battery mount for the chassis. This allowed us to mount the battery in an out-of-the-way place on the chassis.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 Jan 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/01/23/chassis/</link>
+        <guid isPermaLink="true">localhost:4000/2016/01/23/chassis/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Session #49</title>
+        <description>&lt;h2&gt;Electronics&lt;/h2&gt;
+
+&lt;p&gt;The electronics we made yesterday turned out to be too large and in the wrong configuration. This meant today Wilson had to reconfigure them and put them different places. He had to redesign, laser cut, and assemble his new idea. He is now mounting, which has been very difficult given that there is not much space.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Scoring Mechanism Protection&lt;/h2&gt;
+
+&lt;p&gt;We put two new bars on the front of our robot to protect our scoring mechanism from hitting the top bar while we hang. These bars will make sure our scoring doesn’t get damaged in the process of hanging.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Zipliners&lt;/h2&gt;
+
+&lt;p&gt;Shanti worked on fixing the zipliner hitters on the side of the robot. These “wings” of the robot fold down to hit the zipliners. These Tetrix wings are a lot stronger than our old flippers which bent backwards. These new zipliner hitters are attached to servos that allow them to fold down once that match starts, letting us still fit in the 18x18x18 sizing cube.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Coming a long ways&lt;/h2&gt;
+
+&lt;p&gt;Over today’s practice, we have made some incredible progress, some of the best we have ever made. We added our electronics, a mechanism to keep the scoring mechanism secure, zip line hitters, a metal debris blocker, attaching the debris scorer and hanging mechanism.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Jan 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/01/22/transform/</link>
+        <guid isPermaLink="true">localhost:4000/2016/01/22/transform/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Session #48</title>
+        <description>&lt;h2&gt;Adding the Scoring Mechanism&lt;/h2&gt;
+
+&lt;p&gt;Samin and Peter worked on adding the scoring mechanism. The ended up having to change the height, size, and dimensions of the scoring mechanism. They had to change all of this to make if fit the new chassis. This proved to take a lot of time, but today they finally got it on. Now they are working changing the size of the motor mount so it fits the new scoring mechanism. They are trying to get it motorized, and they are very close. They changed the length to avoid blocks jamming. They also redid the gearing to make the gears a better fit. After this, they hope to add the scoring mechanism.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post48-1.jpg&quot; alt=&quot;score&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;The Scoring Mechanism on the Chassis.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Electronics&lt;/h2&gt;
+
+&lt;p&gt;Wilson worked on making the motor controllers and electronics. He designed the mount on Solidworks and printing before finally putting it all together. He used the new nylon screws to keep it together. We are doing new plastic screws to reduce static shock.&lt;/p&gt;
+
+&lt;p&gt;We may need to redesign this system if we have to move it to make room for the tape measure mechanism, which we had trouble finding room for.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post48-2.jpg&quot; alt=&quot;electronics&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Electronics Mounted On PolyCarb.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Poster Design&lt;/h2&gt;
+
+&lt;p&gt;Willy, Arielle, and Robert worked on putting together posters for state. They decided what sections would be on each of the four posters (chassis, mechanisms, coding, and outreach). They created a format that they would use on all the posters, and they hope to finish and print these soon so they can get them for state.&lt;/p&gt;
+
+&lt;p&gt;Right now we are putting together pictures and information before formatting them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post48-3.jpg&quot; alt=&quot;peopel&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Designing Posters.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Mounting the block Dumper&lt;/h2&gt;
+
+&lt;p&gt;The block dumper is finally getting put on! Our team worked hard today to make room for the block dumper, which we have been excited to add. The block dumper was not on our old robot, so it will be awesome to finally be able to score blocks. The block dumper design started many months ago when Robert and Arielle worked on a conveyor idea to score blocks on either side of the mountain.&lt;/p&gt;
+
+&lt;p&gt;Isaac and Matt worked on mounting the block scoring mechanism. They attached the block scorer to two pieces of 20x20 extrusion. This allows the scoring mechanism to be adjustable as we try to figure out the best height for scoring blocks.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post48-4.jpg&quot; alt=&quot;scorer&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Block Scorer.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Adding the Tape Measure Hanging System&lt;/h2&gt;
+
+&lt;p&gt;We are going to be using the same tape measure as we used on the last chassis. We cut off 3 feet of tape from the mechanism to make sure we had a strong part that could let us hang reliably.&lt;/p&gt;
+
+&lt;p&gt;Isaac, Matt, and Samin worked to make the mechanism more secure and reliable.&lt;/p&gt;
+
+&lt;p&gt;We are hoping to add this to the robot soon, however, we want to work on adding the other important mechanisms first. We had a lot of trouble finding room for the mechanism, however, we finally think we found a spot above the cube dumper. Hopefully we can fit all of our desired mechanisms!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post48-5.jpg&quot; alt=&quot;hang&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Hang Mechanism.&lt;/span&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Jan 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/01/21/mech/</link>
+        <guid isPermaLink="true">localhost:4000/2016/01/21/mech/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Session #47</title>
+        <description>&lt;h2&gt;Improving the hanging mechanism&lt;/h2&gt;
+
+&lt;p&gt;Isaac and Matt worked on the new hanging mechanism. They did some tests earlier and found that a 2:1 gear ratio is needed, not an 8:1 ratio. This means we can move the hanging mechanism faster and it takes less time. They redesigned a smaller gearbox for it today. It’s about twice as compact as the old version and will hang the robot 4 times as fast.&lt;/p&gt;
+
+&lt;p&gt;They used a spring force gauge and hooked up a 60:1 motor and pulled a string. This way, they found that alone would exert enough torque to pull the weight of our entire robot up. For safety, they decided to use a 2:1.&lt;/p&gt;
+
+&lt;p&gt;They also added a servo to the hanging mechanism so we can adjust the angle. Now, we no longer have the use the back brace to adjust it and we can move the tape measure’s angle much slower, so it won’t break. Isaac is writing code for that currently. Their future plan is to mount it on the robot.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post47-1.jpg&quot; alt=&quot;hang&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Working on the Hang Mechanism.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Resized the ball collector&lt;/h2&gt;
+
+&lt;p&gt;Peter resized the ball collector. He drilled new holes so that it would be higher up. It has to be higher up so we can fit scoring mechanism higher up, so it scores correctly. The gears aren’t meshing well, so Peter is working on fixing it. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post47-2.jpg&quot; alt=&quot;collector&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Ball Collector.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Better zipliner trigger&lt;/h2&gt;
+
+&lt;p&gt;Samin and Armon made a mechanism to trigger the zipliners. This is similar to the King’s mechanism, in that it folds down and works reliably. It will work better than our current mechanism because it will be able to get the third zipliner and generally be more reliable.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post47-3.jpg&quot; alt=&quot;zipliner&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;New Zipliner Trigger.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Adding second motor to drive train&lt;/h2&gt;
+
+&lt;p&gt;Wilson and Samin added a second motor to each side of the drive train for extra torque. Wilson also labeled sides of the robot and is prepared to do the electronics after everything has been mounted. Labeling the sides helps communicate which motors are plugged into where, helps communication between the drivers, and allows the judges to understand our robot better. His last point: it’s fun :-).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post47-4.jpg&quot; alt=&quot;brace&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Back Brace.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Replaced back wheel&lt;/h2&gt;
+
+&lt;p&gt;Samin replaced the back wheel with a different back wheel. It is a ninja-flex 3D printed back wheel. It is the same idea as our old treads, but works better repurposed for this.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post47-5.jpg&quot; alt=&quot;wheel&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Back Brace Wheel.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Engineering notebook fixing&lt;/h2&gt;
+
+&lt;p&gt;Although the notebook did well at Interleague, that does not mean it is done. Arielle worked on fixing formatting problems, revising and editing, and organized it in such a way that computer page numbering will be easier. In addition, she added all the daily logs to the table of contents for the sake of ease of reading. &lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Jan 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/01/20/hang/</link>
+        <guid isPermaLink="true">localhost:4000/2016/01/20/hang/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Session #41</title>
+        <description>&lt;h2&gt;Work on the Autonomous&lt;/h2&gt;
+
+&lt;p&gt;Isaac worked on upgrading our phone to the new Motorola phone. He also made a new laser printed case for it because the other did not fit.&lt;/p&gt;
+
+&lt;p&gt;He also spent time working on fine tuning the autonomous. He made corrections and made it simpler from a coder’s standpoint. He did a few tests and was able to score more points by climbing the mountain. At its best it scores 15 points above what it used to score because now it goes to the high zone.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post41-1.jpg&quot; alt=&quot;chassis&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;2856 Sitting on the shelf.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Binder Work&lt;/h2&gt;
+
+&lt;p&gt;Wilson researched fundraising ideas. He thought of making luggage tags that our team could sell. These would be red and white, and have our logo on them. He also worked on making our binder and adding the rings. Our binder is now ready for us to add the paper material.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post41-2.jpg&quot; alt=&quot;binder&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;The Wood Binder.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Cube collector to Cube distributer&lt;/h2&gt;
+
+&lt;p&gt;Peter worked on the juncture between the cube collector and cube distributer. He also worked on adding stuff to our new Pac Fab chassis.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post41-3.jpg&quot; alt=&quot;collector&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Block Collector.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Python practice and Powering the Mechanisms&lt;/h2&gt;
+
+&lt;p&gt;Shanti worked on learning Python. She went through tutorials as well as doing a challenge that Isaac made for her to teach her more about it.&lt;/p&gt;
+
+&lt;p&gt;She also worked on the movement between the collector and dumper. She then figured out how to power both the mechanisms with one motor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post41-4.jpg&quot; alt=&quot;teaching&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Isaac Teaching Shanti Python.&lt;/span&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Jan 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/01/03/auto/</link>
+        <guid isPermaLink="true">localhost:4000/2016/01/03/auto/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Session #40</title>
+        <description>&lt;h2&gt;Engineering notebook writing&lt;/h2&gt;
+
+&lt;p&gt;Over the break, everyone was supposed to work on essays for the notebook. However, because everyone was busy, this didn’t really happen. We didn’t have a lot to work on today, so the whole team wrote most of their essays for the notebook. Samin wrote about hanging and worked on writing about the chassis, Shanti and Peter worked on writing about the scoring mechanism, and AJ revised what Isaac did for code.&lt;/p&gt;
+
+&lt;p&gt;This will make sure the judges see an evolution of our robot and it will all be in one spot, making it easier to read.&lt;/p&gt;
+
+&lt;p&gt;During this, Arielle revised and edited notebook posts that were already written and worked on posters. She also spoke with Willy about judging ideas, like using STAR to be a tagline.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post40-1.jpg&quot; alt=&quot;aj&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;AJ Writing Essays For The Notebook.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Faster autonomous&lt;/h2&gt;
+
+&lt;p&gt;Isaac worked on making the autonomous faster. He suspects that in the league match, some robots will run blocking programs. The autonomous raises and lowers the back brace while it’s moving. It also sets the robot speed to 100%. This makes the autonomous take about 15 seconds instead of 30. He has also fixed some other bugs in the code. The second half of the day was spent getting the Motorola phone to work. He’s gotten small pieces of code running on it, but not the full autonomous program - the initialize routine works.&lt;/p&gt;
+
+&lt;p&gt;He’s tested it with blocks and there seems to be no effect. It might be more susceptible to getting blocks under it, but in terms of accuracy, it seems to work well.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Pacfab chassis!&lt;/h2&gt;
+
+&lt;p&gt;The chassis that Pacfab waterjet and welded for us finally arrived! We were so excited. Samin and Peter got a start on putting the gearbox on it. They filed down a little bit to fit the gear. We’re refraining from making large changes until Gerald is around to supervise. This chassis will not be used for interleague, but instead for state. Our current robot is already very good and reliable enough to use. We will not be taking it apart for the new chassis so we have a backup.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post40-2.jpg&quot; alt=&quot;chassis&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;2856 With The New Chassis.&lt;/span&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Jan 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/01/02/notebook/</link>
+        <guid isPermaLink="true">localhost:4000/2016/01/02/notebook/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Session #34</title>
@@ -265,364 +541,6 @@
         <pubDate>Wed, 23 Sep 2015 13:04:12 -0700</pubDate>
         <link>localhost:4000/2015/09/23/prototypes/</link>
         <guid isPermaLink="true">localhost:4000/2015/09/23/prototypes/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Session #4</title>
-        <description>&lt;h2&gt;Flipping Tank Drive&lt;/h2&gt;
-
-&lt;p&gt;Wilson and Shanti worked on modifying and testing their flipping tank drive. They talked about ideas to make the drive better. They continued to research tank drive treads and emailed a company to ask for samples.&lt;/p&gt;
-
-&lt;p&gt;The flipping tank drive was able to drive up all the bars, but it still has trouble getting from the floor to the ramp. There isn’t enough traction to do this, so they are continuing to think of ways for the robot to make it to the top by itself.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post4-2.jpg&quot; alt=&quot;tank on mountain&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Shanti Next To Flippin Tank Drive on Top Of The Mountain.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Sled Final Testing&lt;/h2&gt;
-
-&lt;p&gt;Armon and Peter finished testing their sled design. Their sled design was able to slide down the base from the top. They hope this can make the robot get to the ground faster, but some more testing is need.&lt;/p&gt;
-
-&lt;p&gt;They are going to continue to build a better and more solid design (instead of PVC).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post4-1.jpg&quot; alt=&quot;sled tank&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Testing out The Sled Chassis.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;PID control that uses Gyro&lt;/h2&gt;
-
-&lt;p&gt;Isaac started getting readings, but he discovered a bug that prevented him from getting them sometimes. He will need to work on his Gyro to fix it.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;GIT presentation for the FTC workshop&lt;/h2&gt;
-
-&lt;p&gt;AJ worked on debugging issues in the new platform. He found a joystick recognition problem and worked on fixing. They ended up resetting the phones to factory condition to fix it.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 22 Sep 2015 13:04:12 -0700</pubDate>
-        <link>localhost:4000/2015/09/22/prototypes/</link>
-        <guid isPermaLink="true">localhost:4000/2015/09/22/prototypes/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Session #3</title>
-        <description>&lt;h2&gt;Chassis Prototype Idea 1: Flippin Tank Drive&lt;/h2&gt;
-
-&lt;p&gt;Wilson worked on prototyping a tank drive chassis with Tetrix tank treads and urethane flippers for traction. He did a preliminary test in the morning after completing one side of the flippers and it seemed to work well, so he continued with the second side.&lt;/p&gt;
-
-&lt;p&gt;At the end of the day, Wilson did a final tank drive test with both sides of the flippers. He found that getting up the very first part of the ramp is hard because there is no traction. The flipper design was a 1/3 success because it fell apart at places and it wasn’t too great at moving.&lt;/p&gt;
-
-&lt;p&gt;The idea for the flippers is that they will support the robot on the ground as well as let the robot climb the mountain. The mountain is proving to be tricky to climb, however, because the angle change from ground level to the angle of the mountain is large.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post3-1.jpg&quot; alt=&quot;tank&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Close up View of Flippin Tank Drive.&lt;/span&gt;
-&lt;img src=&quot;/img/post3-2.jpg&quot; alt=&quot;wilson and tank&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Wilson Woring On The Field With Flippin Tank Drive.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;hassis Prototype Idea 2: Sled Mechanism&lt;/h2&gt;
-
-&lt;p&gt;Armon and Peter worked on a sled design. This idea will help us go down the ramp faster. The sled will work by having two PVC pipes on the sides of the robot be able to come down to act as sled runners to get us back to the floor of the field.&lt;/p&gt;
-
-&lt;p&gt;Armon and Peter haven’t finished the sled prototype yet, and they are gonna continue to work on it throughout this coming week.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post3-3.jpg&quot; alt=&quot;armon working&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Armon Working On The Sled Chassis.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Backlog work&lt;/h2&gt;
-
-&lt;p&gt;We worked on getting our backlog system up and running. We started writing tasks that we wanted to start working on soon, as well as tasks that were currently in progress. We have different colored slips of paper for each team’s tasks. This year, we want to be able to move tasks along the backlog depending on how close we are to completion.&lt;/p&gt;
-
-&lt;p&gt;Our team’s paper color is orange.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post3-4.jpg&quot; alt=&quot;backlog&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Our New Colorful Backlog.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Mill instructions&lt;/h2&gt;
-
-&lt;p&gt;Shanti and Samin continued to learn how to use the mill. Gerald gave them a lesson for about an hour to make sure they know how to use the mill safely. They practiced by milling a new bracket for a servo.&lt;/p&gt;
-
-&lt;p&gt;Our new machining room is a great place for safe machining work.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post3-5.jpg&quot; alt=&quot;mill lesson&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Samin and Shanti Learning The Ways of The Mill.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Setting up New Field (Res-Q)&lt;/h2&gt;
-
-&lt;p&gt;Maddy worked on putting the Res-Q field together. One of the mountains is mostly put together so far. This field proved to be sort of hard to put together, so we will continue it throughout this week.&lt;/p&gt;
-
-&lt;p&gt;In our new room, we can have a permanent field set up! In previous years in our old room, we had to set up the field at the beginning of practice if we wanted to use it and then take it down at the end. This took a lot of time out of our practice. This field would have been very hard to move every practice, and so it is great we can have it set up permanently!&lt;/p&gt;
-
-&lt;p&gt;Having the Res-Q field set up soon will also allow us to do great prototype testing like we did today!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post3-6.jpg&quot; alt=&quot;field&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Setting up The New Field.&lt;/span&gt;
-&lt;img src=&quot;/img/post3-7.jpg&quot; alt=&quot;field&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Setting up The New Field.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Fan Mechanism&lt;/h2&gt;
-
-&lt;p&gt;Isaac continued to work on his ball blowing fan mechanism. The gear ratio was increased by 400%, and he upgraded to a more powerful AndyMark motor. It was much more effective, and all the balls were blown out of the cube cluster at a distance of approximately two feet.&lt;/p&gt;
-
-&lt;p&gt;This design will be helpful because we plan to only collect cubes for this game because it is a more efficient scoring item (more can fit in each bin).&lt;/p&gt;
-
-&lt;p&gt;Next practice, Isaac hopes to make the mechanism more concentrated by having the fan blow through the tube so balls in front of the robot move out of the way. He will also be CADing this design.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post3-8.jpg&quot; alt=&quot;fan&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Isaac Continues Work On The Fan.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Tread Research&lt;/h2&gt;
-
-&lt;p&gt;Santi researched tank treads that we could use for our robot. In her research, she requested a quote from a company that sells tread belts.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;High Clearance Chassis&lt;/h2&gt;
-
-&lt;p&gt;Samin worked on a chassis that had high clearance that was meant to be able to go over debri on the field. This chassis had large wheels that were supposed to go up the mountain as well. This design ended up not working because the wheels were not big enough to go up the mountain. Samin wasn’t able to finish it today, but he does not plan to finish this prototype because it proved not to work.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Flipper Code&lt;/h2&gt;
-
-&lt;p&gt;AJ worked on various club level things. He wrote some prototype code for Wilson’s flipper design.&lt;/p&gt;
-
-&lt;p&gt;AJ also worked writing some code goals in the backlog. The coders discussed what their priorities were, and how long they thought tasks would take.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post3-9.jpg&quot; alt=&quot;aj&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;AJ Coding a Basic OPMode for Wilson.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Android phone camera&lt;/h2&gt;
-
-&lt;p&gt;Matt worked on programming a test application that could retrieve an image from the camera of the Android phone. He is now working on using it to detect what position the button is in.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Project Design and Backlog Presentation&lt;/h2&gt;
-
-&lt;p&gt;Duncan’s dad came in to help us with our backlog setup. He is a product manager, so he gave a presentation how to use the backlog while in the design process. Duncan’s father also worked with Maddy to help her set up the field.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post3-10.jpg&quot; alt=&quot;presentation&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Duncan’s Dad Presenting To Us.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Safety Presentation and Information&lt;/h2&gt;
-
-&lt;p&gt;Gerald gave a safety presentation today regarding the mill, saws, and cutting tools we have. In his presentation, Gerald talked about the importance of not having loose clothing and tying hair back. He also gave some rules for using the room which will help to keep us safe while using these tools to make specialized parts.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post3-11.jpg&quot; alt=&quot;gerald&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Gerald Presenting on Saftey.&lt;/span&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 19 Sep 2015 13:04:12 -0700</pubDate>
-        <link>localhost:4000/2015/09/19/prototype/</link>
-        <guid isPermaLink="true">localhost:4000/2015/09/19/prototype/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Session #2</title>
-        <description>&lt;h2&gt;What does the robot need to be able to do?&lt;/h2&gt;
-
-&lt;p&gt;This is the first step of our engineering process. As a group, we are figuring out exactly what our goal is, both immediate and final. &lt;/p&gt;
-
-&lt;p&gt;Our goals are what we need to do and time it might take. We are designing to specs. We want to be able to measure when we meet our goals.&lt;/p&gt;
-
-&lt;p&gt;This will be helpful in the future when comparing which prototype is better.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post2-1.jpg&quot; alt=&quot;board&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Room, with SMARTBOARD and Whiteboard with ideas on them.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Mechanism brainstorm&lt;/h2&gt;
-
-&lt;p&gt;We needed to get our ideas on paper. We came up with an idea to build the general chassis and prototype different ways of movement. This is completely new for our team.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post2-2.jpg&quot; alt=&quot;board&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Whiteboard with Mechanism Ideas.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Tank tread prototyping&lt;/h2&gt;
-
-&lt;p&gt;Shanti and Wilson worked on building preliminary tank treads to test. Currently, Tetrix is a pain. The current treads will be very basic. They are in the middle of working on it right now.&lt;/p&gt;
-
-&lt;p&gt;They are using Tetrix, plastic sprockets and plastic tank treads to test. There wasn’t much time to test, but the one side that had been constructed looked to work fairly well. There is no traction right now.&lt;/p&gt;
-
-&lt;p&gt;Next meeting, the other side has to be built and the treads need to be tested more.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post2-3.jpg&quot; alt=&quot;board&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Whiteboard with Mechanism Ideas.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Image processing&lt;/h2&gt;
-
-&lt;p&gt;Matt and AJ worked on the particular elements of image processing that will be needed to identify the beacon in autonomous. In particular, they started work on a program that will be able identify a blue region, isolate all the image processing work to the relevant region of the bitmap, and then identify the black button. While OpenCV is a powerful framework, it seems like it may be overkill for this particular problem. It also suffers from poor documentation, along with the fact that the OpenCV API was obviously ported straight from C, and so retains some idiosyncrasies from C that a native Java API would not force the programmer to deal with.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post2-4.jpg&quot; alt=&quot;coders&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Coders Working on Image Processing.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Prototyping a fan&lt;/h2&gt;
-
-&lt;p&gt;Isaac did a test by blowing air on the balls and they rolled away well. So, he figured that it could be scaled up and a fan could do the same thing. He began by designing a good gear ratio to spin the fan as fast as possible. The ratio is 9:1. By accident, he geared at backwards so it actually went 9 times slower, but that was easily fixed.
-He constructed it by heating some ABS and bending it into a propeller, using Tetrix for speed. He tested on the field and he was able to blow some of the balls, but one of the balls surrounded by a couple cubes would not move. &lt;/p&gt;
-&lt;p&gt;Whether this was the way the ball was on the floor or because it was surrounded needs to be tested in the future. 
-He is building another iteration with four times more speed that will hopefully be able to blow balls even when they’re in different orientations. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post2-5.jpg&quot; alt=&quot;fan&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Isaac Making a Fan.&lt;/span&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 16 Sep 2015 13:04:12 -0700</pubDate>
-        <link>localhost:4000/2015/09/16/brainstorm/</link>
-        <guid isPermaLink="true">localhost:4000/2015/09/16/brainstorm/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Session #1</title>
-        <description>&lt;h2&gt;Game Strategy Planning&lt;/h2&gt;
-
-&lt;p&gt;We find it helpful to start by planning out how our strategy is going to look this year. 2856 made two goals: our initial and our final goal. Our initial goal is what our robot will be able to do at the first league competition and our final goal is our State/Super Regional robot. This will allow us to create an arc throughout the season. When we are working on our initial robot, that doesn’t have to do much, we will still be on the way to creating our final robot.&lt;/p&gt;
-
-&lt;p&gt;We created this strategy by looking at the point values and the low-hanging fruit that everyone will be going for in the first couple matches. From our experience at Super Regionals last year, we know that the robots there can do everything and fast. We found the best way to get as many points as possible. Our team timed out how long it will take us to collect debris and fill up the boxes during Teleop (as seen below). This is what we will shoot for, although there is a little leeway too.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post1-1.jpg&quot; alt=&quot;board&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Board With Strategy Ideas On It.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Wilson’s Birthday!&lt;/h2&gt;
-
-&lt;p&gt;Wilson’s mom showed up and told everyone that it is Wilson’s birthday! We sent Wilson and AJ to find a shop-vac in order to divert him and set up the cupcakes with two giant candles in them! After a very long time, they finally came back and everyone sang Wilson happy birthday! And ate cupcakes :-).&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 Sep 2015 13:04:12 -0700</pubDate>
-        <link>localhost:4000/2015/09/15/strategy/</link>
-        <guid isPermaLink="true">localhost:4000/2015/09/15/strategy/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Preseason Session #5</title>
-        <description>&lt;h2&gt;Leadership Discussion&lt;/h2&gt;
-
-&lt;p&gt;Because we are the veteran team, we decided to have a discussion about how leadership on it is going to pan out this year. Robert and Arielle are going to run the engineering notebook on 2856 and coordinate outreach and sponsors for all three teams. This was agreed upon by 2856. 
-&lt;/p&gt;
-
-&lt;p&gt;We had a long discussion about how accountability is going to work this year. In order to make sure everyone is working on something within their skill set, Gabe raised the idea of having Isaac run the backlog and delegate to the programmers and have Wilson do the same with the builders. We were not able to come up with a complete plan for how this is going to work, but we planned a meeting in a month to check in on how this is working. &lt;/p&gt;
-
-&lt;p&gt;Overall, it was really helpful to have this discussion and discuss the pros and cons of the backlog manager idea. The meeting in the future will be very helpful to any problems from this.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Finish organizational projects&lt;/h2&gt;
-
-&lt;p&gt;Arielle and AJ worked on writing down the labels of the bins we haven’t yet finished. This will definitely help us in the future to be able to know where parts are and work more efficiently.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/prepost5-1.jpg&quot; alt=&quot;paper&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Needed Labels for Cart and Bins.&lt;/span&gt;
-&lt;img src=&quot;/img/post5-2.jpg&quot; alt=&quot;computer&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Label Maker Hooked up to Computer.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Finish computer for laser printer&lt;/h2&gt;
-
-&lt;p&gt;Armon and Wilson built a computer for the laser printer. Previously, the computer wasn’t in a very good case and it wasn’t safe. The team bought a new case and worked on disassembling and reassembling the computer in the new case.&lt;/p&gt;
-
-&lt;p&gt;However, they ran into some problems. For example, the board kept shorting out because the bottom of the motherboard was touching the metal of the case. They put spacers in the computer in order to fix this.&lt;/p&gt;
-
-&lt;p&gt;It is now in great working order!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/prepost5-3.jpg&quot; alt=&quot;computer&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Newly Built Computer For The Laser Cutter.&lt;/span&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 09 Sep 2015 13:04:12 -0700</pubDate>
-        <link>localhost:4000/2015/09/09/leadership/</link>
-        <guid isPermaLink="true">localhost:4000/2015/09/09/leadership/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Preseason Session #4</title>
-        <description>&lt;h2&gt;Read Section D of the Game Manual&lt;/h2&gt;
-
-&lt;p&gt;We want to make sure that the team knows everything available to us in terms of materials. This will give us the most possibilities when building and programming the robot.&lt;/p&gt;
-
-&lt;p&gt;What we can use:&lt;/p&gt;
-
-&lt;p&gt;8 motors and 12 servos (new approved motors)&lt;/p&gt;
-&lt;p&gt;Bring our own controllers&lt;/p&gt;
-&lt;p&gt;Red = +, Black = -&lt;/p&gt;
-&lt;p&gt;Gopros for our own entertainment (only for post match enjoyment)&lt;/p&gt;
-&lt;p&gt;3D printed parts are approved if you make them&lt;/p&gt;
-&lt;p&gt;1 degree of freedom limitation&lt;/p&gt;
-&lt;p&gt;As long as we can easily buy it, we can basically use anything - planetary gear trains, guide rails, carriages, carbon fiber, elastic fabric, rubber, shrink wrap
-&lt;p&gt;Don’t modify electronics&lt;/p&gt;
-&lt;p&gt;USB surge protector (for static problems?)&lt;/p&gt;
-&lt;p&gt;Ferrite Beads&lt;/p&gt;
-
-
-&lt;img src=&quot;/img/prepost4-1.jpg&quot; alt=&quot;manual&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Game Manual Section D.&lt;/span&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Research other team’s design processes using engineering notebooks&lt;/h2&gt;
-
-&lt;p&gt;Willy found some of the best engineering notebooks in the world. Our team used them to analyze other team’s design processes and how to replicate them. In addition, we scouted how their notebooks looked and how we can use them for inspiration.&lt;/p&gt;
-
-&lt;p&gt;Software prototyping:&lt;/p&gt;
-&lt;p&gt;Throwaway or evolutionary&lt;/p&gt; 
-&lt;p&gt;Throw away - learn from it and create a different finished product&lt;/p&gt; 
-&lt;p&gt;Evolutionary - create a better product and evolve that into your final&lt;/p&gt;
-&lt;p&gt;Limitations - sensors&lt;/p&gt; 
-&lt;p&gt;Use integrated phone sensors (can we use the phone camera?) - color and shape&lt;/p&gt;
-
-&lt;p&gt;Physical prototyping:&lt;/p&gt;
-&lt;p&gt;Build entire robot out of thin wood, went to the first competition with it, then manufactured
-Oly Cows did this too, did all competitions with basic robot while the rest of the group was CADing and preparing another robot for January 
-One team uses an app to show CAD projects in real life - Edrawings&lt;/p&gt;
-
-&lt;img src=&quot;/img/prepost4-2.jpg&quot; alt=&quot;research&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Researching Other Teams and Ideas.&lt;/span&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Learning about the mill&lt;/h2&gt;
-
-&lt;p&gt;SAAS Robotics, in addition to having a new space, has some new technology. Gerald used some time today to teach us how the mill works. It’s very interesting and will definitely help us in the next year! We learned how to set it up and what it can be used for (very precise cuts and holes).&lt;/p&gt;
-&lt;/p&gt;
-</description>
-        <pubDate>Tue, 08 Sep 2015 13:04:12 -0700</pubDate>
-        <link>localhost:4000/2015/09/08/research/</link>
-        <guid isPermaLink="true">localhost:4000/2015/09/08/research/</guid>
         
         
       </item>

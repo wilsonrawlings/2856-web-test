@@ -1,0 +1,59 @@
+---
+layout:     post
+title:      "Session #48"
+subtitle:   "Focus of The Day: Adding Major Mechanisms"
+date:       2016-01-21 20:04:12
+---
+
+<h2>Adding the Scoring Mechanism</h2>
+
+<p>Samin and Peter worked on adding the scoring mechanism. The ended up having to change the height, size, and dimensions of the scoring mechanism. They had to change all of this to make if fit the new chassis. This proved to take a lot of time, but today they finally got it on. Now they are working changing the size of the motor mount so it fits the new scoring mechanism. They are trying to get it motorized, and they are very close. They changed the length to avoid blocks jamming. They also redid the gearing to make the gears a better fit. After this, they hope to add the scoring mechanism.</p>
+
+<img src="{{ site.baseurl }}/img/post48-1.jpg" alt="score" width="50%">
+<span style="text-align: left;" class="caption text-muted">The Scoring Mechanism on the Chassis.</span>
+
+<hr>
+
+<h2>Electronics</h2>
+
+<p>Wilson worked on making the motor controllers and electronics. He designed the mount on Solidworks and printing before finally putting it all together. He used the new nylon screws to keep it together. We are doing new plastic screws to reduce static shock.</p>
+
+<p>We may need to redesign this system if we have to move it to make room for the tape measure mechanism, which we had trouble finding room for.</p>
+
+<img src="{{ site.baseurl }}/img/post48-2.jpg" alt="electronics" width="50%">
+<span style="text-align: left;" class="caption text-muted">Electronics Mounted On PolyCarb.</span>
+
+<hr>
+
+<h2>Poster Design</h2>
+
+<p>Willy, Arielle, and Robert worked on putting together posters for state. They decided what sections would be on each of the four posters (chassis, mechanisms, coding, and outreach). They created a format that they would use on all the posters, and they hope to finish and print these soon so they can get them for state.</p>
+
+<p>Right now we are putting together pictures and information before formatting them.</p>
+
+<img src="{{ site.baseurl }}/img/post48-3.jpg" alt="peopel" width="50%">
+<span style="text-align: left;" class="caption text-muted">Designing Posters.</span>
+
+<hr>
+
+<h2>Mounting the block Dumper</h2>
+
+<p>The block dumper is finally getting put on! Our team worked hard today to make room for the block dumper, which we have been excited to add. The block dumper was not on our old robot, so it will be awesome to finally be able to score blocks. The block dumper design started many months ago when Robert and Arielle worked on a conveyor idea to score blocks on either side of the mountain.</p>
+
+<p>Isaac and Matt worked on mounting the block scoring mechanism. They attached the block scorer to two pieces of 20x20 extrusion. This allows the scoring mechanism to be adjustable as we try to figure out the best height for scoring blocks.</p>
+
+<img src="{{ site.baseurl }}/img/post48-4.jpg" alt="scorer" width="50%">
+<span style="text-align: left;" class="caption text-muted">Block Scorer.</span>
+
+<hr>
+
+<h2>Adding the Tape Measure Hanging System</h2>
+
+<p>We are going to be using the same tape measure as we used on the last chassis. We cut off 3 feet of tape from the mechanism to make sure we had a strong part that could let us hang reliably.</p>
+
+<p>Isaac, Matt, and Samin worked to make the mechanism more secure and reliable.</p>
+
+<p>We are hoping to add this to the robot soon, however, we want to work on adding the other important mechanisms first. We had a lot of trouble finding room for the mechanism, however, we finally think we found a spot above the cube dumper. Hopefully we can fit all of our desired mechanisms!</p>
+
+<img src="{{ site.baseurl }}/img/post48-5.jpg" alt="hang" width="50%">
+<span style="text-align: left;" class="caption text-muted">Hang Mechanism.</span>
