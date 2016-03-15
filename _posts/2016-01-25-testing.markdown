@@ -1,0 +1,41 @@
+---
+layout:     post
+title:      "Session #51"
+subtitle:   "Focus of The Day: Testing and Modifications"
+date:       2016-01-25 20:04:12
+---
+
+<h2>Anti-Slip Hanging Mechanism</h2>
+
+<p>We had two methods for helping our hang. We had trouble because our new gear ratio (which allows us to hang faster) could not hold our robot up. These two methods were:</p>
+<p>1.	a second hook that extends to help us hold on. This hook would not be on a tape measure but would instead latch on once the tape measure has finished.</p>
+<p>2.	a pin system that would stop the tape measure for slipping. This pin system would slide into the tape measure spool, using a servo, and stop the spool from unwinding.</p>
+
+<img src="{{ site.baseurl }}/img/post51-1.jpg" alt="rex" width="50%">
+<span style="text-align: left;" class="caption text-muted">T-Rex Arm.</span>
+<img src="{{ site.baseurl }}/img/post51-2.jpg" alt="pin" width="50%">
+<span style="text-align: left;" class="caption text-muted">Hang Spool Pin.</span>
+
+<hr>
+
+<h2>Debris Collectors</h2>
+
+<p>Shanti made two debris collectors that guided the locks into the block collector mechanism. These collectors allow us to gather blocks much easier. We now should be able to gather five blocks more efficiently, hopefully letting us make more trips to the top of the mountain to score.</p>
+
+<img src="{{ site.baseurl }}/img/post51-3.jpg" alt="corral" width="50%">
+<span style="text-align: left;" class="caption text-muted">Collectors.</span>
+
+<hr>
+
+<h2>Testing, testing, testing</h2>
+
+<p>We did quite a bit of testing to make sure that our block collector, scoring, and hanging could work properly. Since we redid the chassis, we have to do a lot of testing to make sure our mechanisms work.</p>
+
+<hr>
+
+<h2>Remaking the Block dumpers</h2>
+
+<p>Shanti also worked on remaking the block dumpers. The old block dumper ramps got the blocks stuck between the conveyor belt and the ramp. We wanted to remake them to make sure the blocks had a smooth transition into the ramp.</p>
+
+<img src="{{ site.baseurl }}/img/post51-4.jpg" alt="dumpers" width="50%">
+<span style="text-align: left;" class="caption text-muted">New Block Dumpers.</span>

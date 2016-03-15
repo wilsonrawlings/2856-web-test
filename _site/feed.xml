@@ -5,9 +5,53 @@
     <description>The Webpage for Red Shift Robotics&#39; 2856 Tesseract.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 14 Mar 2016 18:07:38 -0700</pubDate>
-    <lastBuildDate>Mon, 14 Mar 2016 18:07:38 -0700</lastBuildDate>
+    <pubDate>Mon, 14 Mar 2016 18:14:11 -0700</pubDate>
+    <lastBuildDate>Mon, 14 Mar 2016 18:14:11 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Session #51</title>
+        <description>&lt;h2&gt;Anti-Slip Hanging Mechanism&lt;/h2&gt;
+
+&lt;p&gt;We had two methods for helping our hang. We had trouble because our new gear ratio (which allows us to hang faster) could not hold our robot up. These two methods were:&lt;/p&gt;
+&lt;p&gt;1.	a second hook that extends to help us hold on. This hook would not be on a tape measure but would instead latch on once the tape measure has finished.&lt;/p&gt;
+&lt;p&gt;2.	a pin system that would stop the tape measure for slipping. This pin system would slide into the tape measure spool, using a servo, and stop the spool from unwinding.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post51-1.jpg&quot; alt=&quot;rex&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;T-Rex Arm.&lt;/span&gt;
+&lt;img src=&quot;/img/post51-2.jpg&quot; alt=&quot;pin&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Hang Spool Pin.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Debris Collectors&lt;/h2&gt;
+
+&lt;p&gt;Shanti made two debris collectors that guided the locks into the block collector mechanism. These collectors allow us to gather blocks much easier. We now should be able to gather five blocks more efficiently, hopefully letting us make more trips to the top of the mountain to score.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post51-3.jpg&quot; alt=&quot;corral&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Collectors.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Testing, testing, testing&lt;/h2&gt;
+
+&lt;p&gt;We did quite a bit of testing to make sure that our block collector, scoring, and hanging could work properly. Since we redid the chassis, we have to do a lot of testing to make sure our mechanisms work.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Remaking the Block dumpers&lt;/h2&gt;
+
+&lt;p&gt;Shanti also worked on remaking the block dumpers. The old block dumper ramps got the blocks stuck between the conveyor belt and the ramp. We wanted to remake them to make sure the blocks had a smooth transition into the ramp.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post51-4.jpg&quot; alt=&quot;dumpers&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;New Block Dumpers.&lt;/span&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Jan 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/01/25/testing/</link>
+        <guid isPermaLink="true">localhost:4000/2016/01/25/testing/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Session #50</title>
@@ -501,46 +545,6 @@
         <pubDate>Sat, 28 Nov 2015 12:04:12 -0800</pubDate>
         <link>localhost:4000/2015/11/28/debris/</link>
         <guid isPermaLink="true">localhost:4000/2015/11/28/debris/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Session #5</title>
-        <description>&lt;h2&gt;The modification and end of the Flipping Tank drive&lt;/h2&gt;
-
-&lt;p&gt;Today Shanti and Wilson worked on perfecting their flipping tank drive prototype. Wilson and Shanti replace the orange flippers with latex tubing attached with zip ties.&lt;/p&gt;
-
-&lt;p&gt;This idea ended up not working, because there was no traction on the ramp, and the latex tubing wasn’t helping.&lt;/p&gt;
-
-&lt;p&gt;They are now going to move on from this design.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Taping the new Field and adding the Zipliners&lt;/h2&gt;
-
-&lt;p&gt;Ellie and Robert worked on adding the red and blue tape to the field. This tape is really important because it marks the scoring boxes and the red and blue sides of the field.&lt;/p&gt;
-
-&lt;p&gt;Attaching the zipliners proved to be hard, but they were able to get 1 side completely set up! They found that some tweaking needed to get done in order for the zipliners to be fully released when the switch was hit.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post5-1.jpg&quot; alt=&quot;zipliner mount&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;The Zipliners Mounted to the Top of the Mountain.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Image Processing for Beacon Color&lt;/h2&gt;
-
-&lt;p&gt;Matt made the image processing more precise by adding a larger point cloud. Now it can tell the position (color) of the Res-Q beacon.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Magnetometer testing&lt;/h2&gt;
-
-&lt;p&gt;Today Isaac did testing today with the magnetometer. He found out that we could not reliably use the magnetometer because there would be too much interference with motors. After gathering and plotting the data, he ultimately determined that the motors would need to be 10 inches from the phone in order to work well. In the 18x18x18 sizing cube, this wouldn’t be practical.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 23 Sep 2015 13:04:12 -0700</pubDate>
-        <link>localhost:4000/2015/09/23/prototypes/</link>
-        <guid isPermaLink="true">localhost:4000/2015/09/23/prototypes/</guid>
         
         
       </item>
