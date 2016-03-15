@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "Session #52"
+subtitle:   "Focus of The Day: Super Regional Goals"
+date:       2016-02-03 20:04:12
+---
+
+<h2>Super Regional Goals</h2>
+
+<p>The team has many ideas for Super Regionals. Gabe made us take a week off to think and we came together on Wednesday to discuss. We all wanted to start talking, but instead, Gabe had us write down what we wanted. This was everything from fixing the static to improving the ball collector to making the pit and improving the engineering notebook. Then, we found that everyone had too many ideas! Gabe had everyone take 5 sticky notes and place them next to the ideas we found important. </p>
+
+<p>We narrowed our priorities down to drive practice, gearbox, block collector, static, pit, outreach, wiring, and code. These will be flexible as we run into problems, like foreseeable problems with the code or realizing we have to fix static first. </p>
+
+<img src="{{ site.baseurl }}/img/post52-1.jpg" alt="board" width="50%">
+<span style="text-align: left;" class="caption text-muted">White Board With Goal Ideas.</span>
+<img src="{{ site.baseurl }}/img/post52-2.jpg" alt="board" width="50%">
+<span style="text-align: left;" class="caption text-muted">White Board With Goal Ideas.</span>
+<img src="{{ site.baseurl }}/img/post52-3.jpg" alt="board" width="50%">
+<span style="text-align: left;" class="caption text-muted">White Board With Goal Ideas.</span>
+<img src="{{ site.baseurl }}/img/post52-4.jpg" alt="board" width="50%">
+<span style="text-align: left;" class="caption text-muted">White Board With Goal Ideas.</span>

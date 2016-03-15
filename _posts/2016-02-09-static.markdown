@@ -1,0 +1,38 @@
+---
+layout:     post
+title:      "Session #54"
+subtitle:   "Focus of The Day: Static Research"
+date:       2016-02-09 20:04:12
+---
+
+<h2>Static Research</h2>
+
+<p>Our team realized that static electricity was really important to understand for Super Regionals. If we continue to not address this problem, our robot could repeat its State performance and not work again, which could be fatal at Super Regionals. </p>
+
+<p>Shanti and Armon’s task was to research what static electricity we create. They needed to find the materials that rub against each other on our robot. They were figuring out where the materials are located on the Triboelectric Scale. They found almost everything. They found that the polyurethane is really high on the scale, while most of the other materials are really low on the scale. They’ve contacted the company to figure out what the rubber part of the treads are made of, because they don’t know yet and it is important to know. </p>
+
+<p>Because the polyurethane is high on the scale, it could potentially be creating static electricity on the robot. Depending on what material the rubber on the treads is made out of, it could be another potential source.</p>
+
+<img src="{{ site.baseurl }}/img/post54-1.jpg" alt="word" width="50%">
+<span style="text-align: left;" class="caption text-muted">Word Doc List.</span>
+
+<hr>
+
+<h2>Custom axle making for block collecting and scoring</h2>
+
+<p>Peter and Samin decided to make the treadmill faster. This will allow us to score faster and the blocks won’t jam in the treadmill system. Peter is using a custom sprocket, but the axle hole is too big. They got a bigger axle and turned down most of the axle to fit a normal axle size, except for a little part of it to fit the new sprocket. Peter is putting the chain on right now. </p>
+
+<p>The ball scorer used to be a 2:1 gear ratio. With the new little sprocket, it is a 4:1 ratio. They changed another sprocket to an even bigger one, 8:1, so it will be 8 times faster.</p>
+
+<img src="{{ site.baseurl }}/img/post54-2.jpg" alt="sprocket" width="50%">
+<span style="text-align: left;" class="caption text-muted">Scorer Sprocket..</span>
+
+<hr>
+
+<h2>Overriding error messages</h2>
+
+<p>Isaac is looking through the FTC code. He is finding a way to change the configuration files, mid-match, in order to deal with the interface module being broken. If one device dies, it will stop that one device, but the rest of the robot will continue working. </p>
+
+<p>Isaac is looking through the FTC code. He is finding a way to change the configuration files, mid-match, in order to deal with the interface module being broken. If one device dies, it will stop that one device, but the rest of the robot will continue working. </p>
+
+<p>It hasn’t been working very well. The software is confusing. A lot of the code is also compiled, for no visible reason. It doesn’t have to be compiled, but it is, so a lot of it is unreadable. He is stopping the error reporting idea, but he’s still trying to change the config between autonomous and teleop. According to Larry, the two things most prone to static are the interface module and the legacy module, which are only used in autonomous. If we can eliminate them for teleop, our problems could be solved.</p>

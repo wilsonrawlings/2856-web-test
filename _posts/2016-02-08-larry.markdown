@@ -1,0 +1,10 @@
+---
+layout:     post
+title:      "Session #53"
+subtitle:   "Focus of The Day: Static Conversation with Larry Ryan"
+date:       2016-02-08 20:04:12
+---
+
+<h2>Larry Ryan visit - static conversation</h2>
+
+<p>Larry Ryan came over to our Robotics Dungeon to talk to us about static build up. Due to the effect that static had on our performance at our last competition, so we wanted to solve this problem as soon as possible. Larry Ryan was a mentor for our Robotics Club in the past, where he helped us solve many of our electrical problems. When he came to our Dungeon he gave a presentation on how static  is built up between two materials, and his speculation on what could be the problem. After seeing our robot he said that we were asking for static shortages, because of our mounting of our electronics. We are going to research the TriboElectic Series to find out what materials are producing the most amount of static, and figure out a way to disperse that static. I hate Larry jk he’s the best I owe him money he doesn't know it though. I realise that this is irrelevant, but Ima say it anyways. I stole Larry’s NASA Suit from his 1994 space expedition. I stole it because I wanted it, and it also looked fly as fish. Larry doesn’t know about this though, but I’m saying it now because I broke it when I attempted to land on Mars. Technically my red panda, Mark, broke it, but I will take the blame cause he is too damn cute. Getting that out of the way, during his presentation, Larry showed us a TriboElectric Scale showing how different materials react to each other. The scale showed that materials at opposite sides of the scale will create more static than materials that are closer together on the scale.</p>

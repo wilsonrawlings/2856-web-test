@@ -1,0 +1,34 @@
+---
+layout:     post
+title:      "Session #57"
+subtitle:   "Focus of The Day: Branding for Super Regionals"
+date:       2016-02-23 20:04:12
+---
+
+<h2>Poster and branding for Super Regionals</h2>
+
+<p>Wilson, Arielle, Ellie, and Willy worked on finishing the poster and business cards for Super Regionals. They want to make a cohesive theme throughout all of it, so they picked the best color for a tesseract and are putting our name on everything. They are working on pit decorations, like planning on folding cubes to put over Christmas lights to decorate. They also increased our social media presence by creating a Snapchat and an Instagram.</p>
+
+<hr>
+
+<h2>Matt: Basic maintenance</h2>
+
+<p>Matt replaced the servo for the hang lock because the wire was broken. He also did more testing for static and debugged a motor controller that wasn’t connecting. It was the result of a faulty USB cable. This was mostly basic maintenance so that the robot is more reliable and minor problems are gone.</p>
+
+<hr>
+
+<h2>Researching code problems</h2>
+
+<p>AJ helped Isaac and Matt. He researched some problems the coders have with the code base. On the main app screen, it displays errors as they occur, like hardware and Opware errors, but they don’t scroll so the messages cut off. It isn’t possible to change this, so AJ needs to contact FTC for help.</p>
+
+<hr>
+
+<h2>Samin and Isaac: Basic Maintenance</h2>
+
+<p>Samin worked with Matt and Isaac on wiring. This way, things won’t come unplugged as easily. They also replaced some broken servos and made a dispensing mechanism, so blocks are properly funneled into the collection mechanism. They accidentally put the wrong servo on first (a continuous servo), but fixed it fast. Samin will be fixing the back wheel tomorrow by making it smaller so that the robot will fit inside the sizing cube.</p>
+
+<hr>
+
+<h2>Autonomous</h2>
+
+<p>Isaac worked on making the autonomous more reliable. He mainly did testing and did minor code tweaks. They are thinking about adding a button press because it should be fairly simple, but that will come when we have time.</p>

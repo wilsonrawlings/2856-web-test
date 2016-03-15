@@ -1,0 +1,33 @@
+---
+layout:     post
+title:      "Session #56"
+subtitle:   "Focus of The Day: Static"
+date:       2016-02-20 20:04:12
+---
+
+<h2>Fixing our Static Problem</h2>
+
+<p>Our team worked a lot today on fixing our continued static problem. Our robot has been shutting down when it touches the ramp because of static, so we worked to figure out the problem. Wilson had brought in his dehumidifier and we made the room as dry as possible. We then tested different mechanisms to find out what was making us shut down. We used a van der graft generator from the physics room to shock different parts of the robot to find out what was conducting the most electricity. We have been having lots of trouble with our batteries, and they keep draining very quickly over practice. We weren’t able to fully fix the static or battery problem today, but we are making progress and hopefully can fix it this week.</p>
+
+<img src="{{ site.baseurl }}/img/post56-1.jpg" alt="us" width="50%">
+<span style="text-align: left;" class="caption text-muted">Us Disscussing Static.</span>
+
+<hr>
+
+<h2>Designing our Pit</h2>
+
+<p>Pit design is something that our team finds important. To have an amazing pit, we spent some time brainstorming the setup of our Super Regionals Pit. We are thinking of having a large pack poster that says our team name. We will have two tables: one for our robot and one for outreach and handouts. We will have a cube theme throughout our tent, including cube balloons, candy, handouts, and more!</p>
+
+<img src="{{ site.baseurl }}/img/post56-2.jpg" alt="pit" width="50%">
+<span style="text-align: left;" class="caption text-muted">1st Pit Design.</span>
+
+<hr>
+
+<h2>Phone Box and Organizer</h2>
+
+<p>Robert worked on building a phone holding box. This box will have a foam interior that holds our team’s phones and charges them. The two holes on the sides of the box is where the charger cords go to plug into a wall outlet.</p>
+
+<p>This new phone box will allow us to have better organization than we have had in the past. Before, our phone were sitting on a cart, and the cords got very tangled. We now have a better system for keeping them organize and tidy.</p>
+
+<img src="{{ site.baseurl }}/img/post56-3.jpg" alt="box" width="50%">
+<span style="text-align: left;" class="caption text-muted">New Box For Phones.</span>

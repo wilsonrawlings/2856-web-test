@@ -5,9 +5,216 @@
     <description>The Webpage for Red Shift Robotics&#39; 2856 Tesseract.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 14 Mar 2016 18:14:11 -0700</pubDate>
-    <lastBuildDate>Mon, 14 Mar 2016 18:14:11 -0700</lastBuildDate>
+    <pubDate>Tue, 15 Mar 2016 11:12:01 -0700</pubDate>
+    <lastBuildDate>Tue, 15 Mar 2016 11:12:01 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Session #57</title>
+        <description>&lt;h2&gt;Poster and branding for Super Regionals&lt;/h2&gt;
+
+&lt;p&gt;Wilson, Arielle, Ellie, and Willy worked on finishing the poster and business cards for Super Regionals. They want to make a cohesive theme throughout all of it, so they picked the best color for a tesseract and are putting our name on everything. They are working on pit decorations, like planning on folding cubes to put over Christmas lights to decorate. They also increased our social media presence by creating a Snapchat and an Instagram.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Matt: Basic maintenance&lt;/h2&gt;
+
+&lt;p&gt;Matt replaced the servo for the hang lock because the wire was broken. He also did more testing for static and debugged a motor controller that wasn’t connecting. It was the result of a faulty USB cable. This was mostly basic maintenance so that the robot is more reliable and minor problems are gone.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Researching code problems&lt;/h2&gt;
+
+&lt;p&gt;AJ helped Isaac and Matt. He researched some problems the coders have with the code base. On the main app screen, it displays errors as they occur, like hardware and Opware errors, but they don’t scroll so the messages cut off. It isn’t possible to change this, so AJ needs to contact FTC for help.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Samin and Isaac: Basic Maintenance&lt;/h2&gt;
+
+&lt;p&gt;Samin worked with Matt and Isaac on wiring. This way, things won’t come unplugged as easily. They also replaced some broken servos and made a dispensing mechanism, so blocks are properly funneled into the collection mechanism. They accidentally put the wrong servo on first (a continuous servo), but fixed it fast. Samin will be fixing the back wheel tomorrow by making it smaller so that the robot will fit inside the sizing cube.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Autonomous&lt;/h2&gt;
+
+&lt;p&gt;Isaac worked on making the autonomous more reliable. He mainly did testing and did minor code tweaks. They are thinking about adding a button press because it should be fairly simple, but that will come when we have time.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Feb 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/02/23/branding/</link>
+        <guid isPermaLink="true">localhost:4000/2016/02/23/branding/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Session #56</title>
+        <description>&lt;h2&gt;Fixing our Static Problem&lt;/h2&gt;
+
+&lt;p&gt;Our team worked a lot today on fixing our continued static problem. Our robot has been shutting down when it touches the ramp because of static, so we worked to figure out the problem. Wilson had brought in his dehumidifier and we made the room as dry as possible. We then tested different mechanisms to find out what was making us shut down. We used a van der graft generator from the physics room to shock different parts of the robot to find out what was conducting the most electricity. We have been having lots of trouble with our batteries, and they keep draining very quickly over practice. We weren’t able to fully fix the static or battery problem today, but we are making progress and hopefully can fix it this week.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post56-1.jpg&quot; alt=&quot;us&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Us Disscussing Static.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Designing our Pit&lt;/h2&gt;
+
+&lt;p&gt;Pit design is something that our team finds important. To have an amazing pit, we spent some time brainstorming the setup of our Super Regionals Pit. We are thinking of having a large pack poster that says our team name. We will have two tables: one for our robot and one for outreach and handouts. We will have a cube theme throughout our tent, including cube balloons, candy, handouts, and more!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post56-2.jpg&quot; alt=&quot;pit&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;1st Pit Design.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Phone Box and Organizer&lt;/h2&gt;
+
+&lt;p&gt;Robert worked on building a phone holding box. This box will have a foam interior that holds our team’s phones and charges them. The two holes on the sides of the box is where the charger cords go to plug into a wall outlet.&lt;/p&gt;
+
+&lt;p&gt;This new phone box will allow us to have better organization than we have had in the past. Before, our phone were sitting on a cart, and the cords got very tangled. We now have a better system for keeping them organize and tidy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post56-3.jpg&quot; alt=&quot;box&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;New Box For Phones.&lt;/span&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Feb 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/02/20/static/</link>
+        <guid isPermaLink="true">localhost:4000/2016/02/20/static/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Session #55</title>
+        <description>&lt;h2&gt;Setting Up the Pit&lt;/h2&gt;
+
+&lt;p&gt;We worked on setting up our PBC pit and making sure that our set up from last year would work. We started to plan out posters we would make and how our tables would be set up. We discussed the best use of our space and how we wanted to organize it this year.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post55-1.jpg&quot; alt=&quot;pit&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Setting Up The Pit.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Replacing the Polycarbonate&lt;/h2&gt;
+
+&lt;p&gt;Peter worked on replacing the polycarbonate belt of the scoring mechanisms. We decided to replace it to make it more robuts to make sure it is not going to fall apart.&lt;/p&gt;
+
+&lt;p&gt;We are also working on modifying this mechanism because we want to make it more efficient and faster. We want it to be faster at scoring so that we can do more trips of blocks. Our changes should also make it less prone to jamming, which has been a problem in the past.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post55-2.jpg&quot; alt=&quot;poly&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;The Side of The Robot.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Order Acrylic&lt;/h2&gt;
+
+&lt;p&gt;Wilson worked on ordering acrylic for our notebook. This acrylic would be used to make the top of our notebook.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Budget Talk&lt;/h2&gt;
+
+&lt;p&gt;Our team also worked to talk about our budget. We decided what we were going to buy for Super Regionals. We decided we wanted to spend some money buying new posters, Tesseract balloons, and more cube-related items.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Decompiling (hopefully)&lt;/h2&gt;
+
+&lt;p&gt;In the FTC app, there is source code and compiled code. We don’t have the source code for the compiled code. AJ and Matt are trying to decompile the binary so they can modify it. They tried variations of two basic approaches: decompiling the binary, modifying it, and recompiling it or decompiling it and integrating it back into the main source tree. Nothing has worked so far. In the future, they hope to get it to work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post55-3.jpg&quot; alt=&quot;code&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Coders Working Away.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Restart the robot through code&lt;/h2&gt;
+
+&lt;p&gt;Isaac is making a program that lets the driver communicate with the inner workings of the robot through opmodes. The goal is to eventually be able to restart the robot through opmodes. So, if there is an error, we can restart the robot. He is tweaking the socket, which is an internet connection within a device. He is sending data back and forth through that. He is not done yet, but he has gotten data sending, so he is close. This is in addition to AJ and Matt’s project. They are making changes deeper than the code and Isaac wants to be able to communicate deeper in the code. &lt;/p&gt;
+
+&lt;p&gt;If AJ and Matt do not figure out how to do their project. we can do simple things like restart the robot, but it won’t be as complex as we want.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Feb 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/02/10/pit/</link>
+        <guid isPermaLink="true">localhost:4000/2016/02/10/pit/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Session #54</title>
+        <description>&lt;h2&gt;Static Research&lt;/h2&gt;
+
+&lt;p&gt;Our team realized that static electricity was really important to understand for Super Regionals. If we continue to not address this problem, our robot could repeat its State performance and not work again, which could be fatal at Super Regionals. &lt;/p&gt;
+
+&lt;p&gt;Shanti and Armon’s task was to research what static electricity we create. They needed to find the materials that rub against each other on our robot. They were figuring out where the materials are located on the Triboelectric Scale. They found almost everything. They found that the polyurethane is really high on the scale, while most of the other materials are really low on the scale. They’ve contacted the company to figure out what the rubber part of the treads are made of, because they don’t know yet and it is important to know. &lt;/p&gt;
+
+&lt;p&gt;Because the polyurethane is high on the scale, it could potentially be creating static electricity on the robot. Depending on what material the rubber on the treads is made out of, it could be another potential source.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post54-1.jpg&quot; alt=&quot;word&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Word Doc List.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Custom axle making for block collecting and scoring&lt;/h2&gt;
+
+&lt;p&gt;Peter and Samin decided to make the treadmill faster. This will allow us to score faster and the blocks won’t jam in the treadmill system. Peter is using a custom sprocket, but the axle hole is too big. They got a bigger axle and turned down most of the axle to fit a normal axle size, except for a little part of it to fit the new sprocket. Peter is putting the chain on right now. &lt;/p&gt;
+
+&lt;p&gt;The ball scorer used to be a 2:1 gear ratio. With the new little sprocket, it is a 4:1 ratio. They changed another sprocket to an even bigger one, 8:1, so it will be 8 times faster.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post54-2.jpg&quot; alt=&quot;sprocket&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Scorer Sprocket..&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Overriding error messages&lt;/h2&gt;
+
+&lt;p&gt;Isaac is looking through the FTC code. He is finding a way to change the configuration files, mid-match, in order to deal with the interface module being broken. If one device dies, it will stop that one device, but the rest of the robot will continue working. &lt;/p&gt;
+
+&lt;p&gt;Isaac is looking through the FTC code. He is finding a way to change the configuration files, mid-match, in order to deal with the interface module being broken. If one device dies, it will stop that one device, but the rest of the robot will continue working. &lt;/p&gt;
+
+&lt;p&gt;It hasn’t been working very well. The software is confusing. A lot of the code is also compiled, for no visible reason. It doesn’t have to be compiled, but it is, so a lot of it is unreadable. He is stopping the error reporting idea, but he’s still trying to change the config between autonomous and teleop. According to Larry, the two things most prone to static are the interface module and the legacy module, which are only used in autonomous. If we can eliminate them for teleop, our problems could be solved.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Feb 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/02/09/static/</link>
+        <guid isPermaLink="true">localhost:4000/2016/02/09/static/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Session #53</title>
+        <description>&lt;h2&gt;Larry Ryan visit - static conversation&lt;/h2&gt;
+
+&lt;p&gt;Larry Ryan came over to our Robotics Dungeon to talk to us about static build up. Due to the effect that static had on our performance at our last competition, so we wanted to solve this problem as soon as possible. Larry Ryan was a mentor for our Robotics Club in the past, where he helped us solve many of our electrical problems. When he came to our Dungeon he gave a presentation on how static  is built up between two materials, and his speculation on what could be the problem. After seeing our robot he said that we were asking for static shortages, because of our mounting of our electronics. We are going to research the TriboElectic Series to find out what materials are producing the most amount of static, and figure out a way to disperse that static. I hate Larry jk he’s the best I owe him money he doesn&#39;t know it though. I realise that this is irrelevant, but Ima say it anyways. I stole Larry’s NASA Suit from his 1994 space expedition. I stole it because I wanted it, and it also looked fly as fish. Larry doesn’t know about this though, but I’m saying it now because I broke it when I attempted to land on Mars. Technically my red panda, Mark, broke it, but I will take the blame cause he is too damn cute. Getting that out of the way, during his presentation, Larry showed us a TriboElectric Scale showing how different materials react to each other. The scale showed that materials at opposite sides of the scale will create more static than materials that are closer together on the scale.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Feb 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/02/08/larry/</link>
+        <guid isPermaLink="true">localhost:4000/2016/02/08/larry/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Session #52</title>
+        <description>&lt;h2&gt;Super Regional Goals&lt;/h2&gt;
+
+&lt;p&gt;The team has many ideas for Super Regionals. Gabe made us take a week off to think and we came together on Wednesday to discuss. We all wanted to start talking, but instead, Gabe had us write down what we wanted. This was everything from fixing the static to improving the ball collector to making the pit and improving the engineering notebook. Then, we found that everyone had too many ideas! Gabe had everyone take 5 sticky notes and place them next to the ideas we found important. &lt;/p&gt;
+
+&lt;p&gt;We narrowed our priorities down to drive practice, gearbox, block collector, static, pit, outreach, wiring, and code. These will be flexible as we run into problems, like foreseeable problems with the code or realizing we have to fix static first. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post52-1.jpg&quot; alt=&quot;board&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;White Board With Goal Ideas.&lt;/span&gt;
+&lt;img src=&quot;/img/post52-2.jpg&quot; alt=&quot;board&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;White Board With Goal Ideas.&lt;/span&gt;
+&lt;img src=&quot;/img/post52-3.jpg&quot; alt=&quot;board&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;White Board With Goal Ideas.&lt;/span&gt;
+&lt;img src=&quot;/img/post52-4.jpg&quot; alt=&quot;board&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;White Board With Goal Ideas.&lt;/span&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Feb 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/02/03/goals/</link>
+        <guid isPermaLink="true">localhost:4000/2016/02/03/goals/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Session #51</title>
@@ -179,372 +386,6 @@
         <pubDate>Thu, 21 Jan 2016 12:04:12 -0800</pubDate>
         <link>localhost:4000/2016/01/21/mech/</link>
         <guid isPermaLink="true">localhost:4000/2016/01/21/mech/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Session #47</title>
-        <description>&lt;h2&gt;Improving the hanging mechanism&lt;/h2&gt;
-
-&lt;p&gt;Isaac and Matt worked on the new hanging mechanism. They did some tests earlier and found that a 2:1 gear ratio is needed, not an 8:1 ratio. This means we can move the hanging mechanism faster and it takes less time. They redesigned a smaller gearbox for it today. It’s about twice as compact as the old version and will hang the robot 4 times as fast.&lt;/p&gt;
-
-&lt;p&gt;They used a spring force gauge and hooked up a 60:1 motor and pulled a string. This way, they found that alone would exert enough torque to pull the weight of our entire robot up. For safety, they decided to use a 2:1.&lt;/p&gt;
-
-&lt;p&gt;They also added a servo to the hanging mechanism so we can adjust the angle. Now, we no longer have the use the back brace to adjust it and we can move the tape measure’s angle much slower, so it won’t break. Isaac is writing code for that currently. Their future plan is to mount it on the robot.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post47-1.jpg&quot; alt=&quot;hang&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Working on the Hang Mechanism.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Resized the ball collector&lt;/h2&gt;
-
-&lt;p&gt;Peter resized the ball collector. He drilled new holes so that it would be higher up. It has to be higher up so we can fit scoring mechanism higher up, so it scores correctly. The gears aren’t meshing well, so Peter is working on fixing it. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post47-2.jpg&quot; alt=&quot;collector&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Ball Collector.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Better zipliner trigger&lt;/h2&gt;
-
-&lt;p&gt;Samin and Armon made a mechanism to trigger the zipliners. This is similar to the King’s mechanism, in that it folds down and works reliably. It will work better than our current mechanism because it will be able to get the third zipliner and generally be more reliable.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post47-3.jpg&quot; alt=&quot;zipliner&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;New Zipliner Trigger.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Adding second motor to drive train&lt;/h2&gt;
-
-&lt;p&gt;Wilson and Samin added a second motor to each side of the drive train for extra torque. Wilson also labeled sides of the robot and is prepared to do the electronics after everything has been mounted. Labeling the sides helps communicate which motors are plugged into where, helps communication between the drivers, and allows the judges to understand our robot better. His last point: it’s fun :-).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post47-4.jpg&quot; alt=&quot;brace&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Back Brace.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Replaced back wheel&lt;/h2&gt;
-
-&lt;p&gt;Samin replaced the back wheel with a different back wheel. It is a ninja-flex 3D printed back wheel. It is the same idea as our old treads, but works better repurposed for this.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post47-5.jpg&quot; alt=&quot;wheel&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Back Brace Wheel.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Engineering notebook fixing&lt;/h2&gt;
-
-&lt;p&gt;Although the notebook did well at Interleague, that does not mean it is done. Arielle worked on fixing formatting problems, revising and editing, and organized it in such a way that computer page numbering will be easier. In addition, she added all the daily logs to the table of contents for the sake of ease of reading. &lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Jan 2016 12:04:12 -0800</pubDate>
-        <link>localhost:4000/2016/01/20/hang/</link>
-        <guid isPermaLink="true">localhost:4000/2016/01/20/hang/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Session #41</title>
-        <description>&lt;h2&gt;Work on the Autonomous&lt;/h2&gt;
-
-&lt;p&gt;Isaac worked on upgrading our phone to the new Motorola phone. He also made a new laser printed case for it because the other did not fit.&lt;/p&gt;
-
-&lt;p&gt;He also spent time working on fine tuning the autonomous. He made corrections and made it simpler from a coder’s standpoint. He did a few tests and was able to score more points by climbing the mountain. At its best it scores 15 points above what it used to score because now it goes to the high zone.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post41-1.jpg&quot; alt=&quot;chassis&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;2856 Sitting on the shelf.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Binder Work&lt;/h2&gt;
-
-&lt;p&gt;Wilson researched fundraising ideas. He thought of making luggage tags that our team could sell. These would be red and white, and have our logo on them. He also worked on making our binder and adding the rings. Our binder is now ready for us to add the paper material.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post41-2.jpg&quot; alt=&quot;binder&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;The Wood Binder.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Cube collector to Cube distributer&lt;/h2&gt;
-
-&lt;p&gt;Peter worked on the juncture between the cube collector and cube distributer. He also worked on adding stuff to our new Pac Fab chassis.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post41-3.jpg&quot; alt=&quot;collector&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Block Collector.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Python practice and Powering the Mechanisms&lt;/h2&gt;
-
-&lt;p&gt;Shanti worked on learning Python. She went through tutorials as well as doing a challenge that Isaac made for her to teach her more about it.&lt;/p&gt;
-
-&lt;p&gt;She also worked on the movement between the collector and dumper. She then figured out how to power both the mechanisms with one motor.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post41-4.jpg&quot; alt=&quot;teaching&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Isaac Teaching Shanti Python.&lt;/span&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 03 Jan 2016 12:04:12 -0800</pubDate>
-        <link>localhost:4000/2016/01/03/auto/</link>
-        <guid isPermaLink="true">localhost:4000/2016/01/03/auto/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Session #40</title>
-        <description>&lt;h2&gt;Engineering notebook writing&lt;/h2&gt;
-
-&lt;p&gt;Over the break, everyone was supposed to work on essays for the notebook. However, because everyone was busy, this didn’t really happen. We didn’t have a lot to work on today, so the whole team wrote most of their essays for the notebook. Samin wrote about hanging and worked on writing about the chassis, Shanti and Peter worked on writing about the scoring mechanism, and AJ revised what Isaac did for code.&lt;/p&gt;
-
-&lt;p&gt;This will make sure the judges see an evolution of our robot and it will all be in one spot, making it easier to read.&lt;/p&gt;
-
-&lt;p&gt;During this, Arielle revised and edited notebook posts that were already written and worked on posters. She also spoke with Willy about judging ideas, like using STAR to be a tagline.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post40-1.jpg&quot; alt=&quot;aj&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;AJ Writing Essays For The Notebook.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Faster autonomous&lt;/h2&gt;
-
-&lt;p&gt;Isaac worked on making the autonomous faster. He suspects that in the league match, some robots will run blocking programs. The autonomous raises and lowers the back brace while it’s moving. It also sets the robot speed to 100%. This makes the autonomous take about 15 seconds instead of 30. He has also fixed some other bugs in the code. The second half of the day was spent getting the Motorola phone to work. He’s gotten small pieces of code running on it, but not the full autonomous program - the initialize routine works.&lt;/p&gt;
-
-&lt;p&gt;He’s tested it with blocks and there seems to be no effect. It might be more susceptible to getting blocks under it, but in terms of accuracy, it seems to work well.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Pacfab chassis!&lt;/h2&gt;
-
-&lt;p&gt;The chassis that Pacfab waterjet and welded for us finally arrived! We were so excited. Samin and Peter got a start on putting the gearbox on it. They filed down a little bit to fit the gear. We’re refraining from making large changes until Gerald is around to supervise. This chassis will not be used for interleague, but instead for state. Our current robot is already very good and reliable enough to use. We will not be taking it apart for the new chassis so we have a backup.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post40-2.jpg&quot; alt=&quot;chassis&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;2856 With The New Chassis.&lt;/span&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 02 Jan 2016 12:04:12 -0800</pubDate>
-        <link>localhost:4000/2016/01/02/notebook/</link>
-        <guid isPermaLink="true">localhost:4000/2016/01/02/notebook/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Session #34</title>
-        <description>&lt;h2&gt;Rotary Boys and Girls Club - Robotics Club Visit&lt;/h2&gt;
-
-&lt;p&gt;Today Arielle and Robert went to Rotary Club. Robert and Jasmine had gone on October 15th, and after their visit, Rotary Boys and Girls Club decided to start their own robotics club. They use EV3’s and will hopefully be competing this year!&lt;/p&gt;
-
-&lt;p&gt;Today Arielle and Robert were able to help the students code and program their robots to move through a maze. Hopefully next time we visit we can bring them the money that we raised during the first competition selling concessions.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post34-1.jpg&quot; alt=&quot;visit&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Teaching Young Kids About Robots&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Finishing CAD-ing the robot&lt;/h2&gt;
-
-&lt;p&gt;Samin finished CAD-ing the robot. He sent it to PacFab. They said they could probably get it done in aluminum with tubing. We will have it done at some point in the near future!&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Ball collecting mechanism continued&lt;/h2&gt;
-
-&lt;p&gt;Today Wilson worked on his Ball Collector mechanism. He worked on building the sides and supports of the collector. He used extruded aluminium to hold the flippers and treads in place.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post34-2.jpg&quot; alt=&quot;robor&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Robot With Ball Collection Mechanism.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Coordinating team costumes&lt;/h2&gt;
-
-&lt;p&gt;Robert and Arielle were trying to come up with a team costume. The team decided on buying suspenders. Arielle found some black suspenders on Ebay and they will be in before the next competition! In addition, Arielle found a Tesseract CAD model and began to print Tesseracts for the team!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post34-3.jpg&quot; alt=&quot;3d printer&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;3D Printing Costumes.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Autonomous work&lt;/h2&gt;
-
-&lt;p&gt;AJ wrote a custom settings menu. Today, Matt implemented them into the main autonomous code. Now, we can choose a delay for the beginning of autonomous and for what alliance side we are on, without having to choose different op modes. This makes it much more convenient, so we don’t have to have the same code repetitively. Instead, we can select from a comprehensive settings dialogue.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post34-4.jpg&quot; alt=&quot;robot and isaac&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Isaac Working On The Robot On The Field.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Climber scoring mechanism&lt;/h2&gt;
-
-&lt;p&gt;Peter created a rack and pinion system for the climber scoring mechanism (into the shelter). It has an automatic release at full extension. We can release the climbers without an extra servo, once it extends fully. There weren’t any problems with creating this mechanism.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 02 Dec 2015 12:04:12 -0800</pubDate>
-        <link>localhost:4000/2015/12/02/rotary/</link>
-        <guid isPermaLink="true">localhost:4000/2015/12/02/rotary/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Session #33</title>
-        <description>&lt;h2&gt;Ball Collector Working!&lt;/h2&gt;
-
-&lt;p&gt;Wilson and Shanti finished building the prototype of the cube collector. They tested it and it worked beautifully! They were able to pick up blocks with speed and agility. Now, Wilson is working on making the final version. He will change the size by making it smaller in every direction. He will also change the material. Before it was made out of Tetrix, and now it will be made out of 20x20 extrusion. We will keep the Tetrix belt and urethane flippers.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post33-1.jpg&quot; alt=&quot;collector&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Ball Collector Working!&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Going through 2856 box&lt;/h2&gt;
-
-&lt;p&gt;Gabe noticed that a lot of parts were going missing. He tasked each team with cleaning out the box of mechanisms and prototypes, because a lot of the materials in there were not being used and could be put back in their respective places. For the beginning of practice, the team went through their box.&lt;/p&gt;
-
-&lt;p&gt;We took apart everything we didn’t need. The more interesting prototypes were put to the side to save for judging or to take photos of. Because we all worked together, this didn’t take nearly as long as we thought it would.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post33-2.jpg&quot; alt=&quot;mess&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Us Cleaning Up The Mess in Our Bin.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Autonomous work&lt;/h2&gt;
-
-&lt;p&gt;Isaac and Matt worked on perfecting the autonomous. They are working hard to get past the debris. They modified their center block tunnel and replaced it with two plows that move all the blocks from out under the treads. Right now they are just cardboard, but if they work, we are hoping to use polycarbonate or metal for these plows. Their largest problem right now is just moving debris so that they can line up with the correct color of the beacon and score the climbers. The autonomous is working great right now, we are just having trouble with the debris getting in the way. Once we get rid of the debris blockage, we will use our PID movement libraries to get to the beacon and image processing to determine the position of the beacon. All of these programs work great then debris is not a problem.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post33-3.jpg&quot; alt=&quot;auto&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Robot On Field Working on Autonomous.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Continuing to finish notebook cover &lt;/h2&gt;
-
-&lt;p&gt;After the notebook finished printing, Wilson printed blue plastic to fill in the shapes. In order to keep them in, Wilson and Robert put hot glue on the backs of them. They used a heat gun to melt the glue and spread it around, creating a cool see through effect. Arielle and Robert finished doing this today. All the glue is finished, but the back of the front cover of our notebook has glue all over it and doesn’t look good. In the future, this has to be cleaned. Most likely, they will be putting a paper or duct tape behind the front cover to obscure the glue.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post33-4.jpg&quot; alt=&quot;notebook&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Cover for new Notebook.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;CADing the chassis&lt;/h2&gt;
-
-&lt;p&gt;Samin finished CAD-ing the chassis. He talked to Gerald about welding the chassis. We will send our CAD-ed file to Pack Fab and have them water jet, mill, and weld the chassis. Samin also worked on redoing some of the wiring on the robot.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Custom settings for Opmode use&lt;/h2&gt;
-
-&lt;p&gt;AJ added custom settings for us to use in our Opmode. This includes what side of the field we are on, are we starting close to the ramp or far from the ramp, how many seconds do we wait before executing the Opmode, and more.&lt;/p&gt;
-
-&lt;p&gt;He did this so the Opmode can deal with different cases on the field. In theory, we would implement this by using more than one Opmode. We’re not going to do that because we would have to scroll through a thousand different Opmodes. 9 Opmodes would do the same thing as this 1, and whenever you changed something, you would have to change everything.&lt;/p&gt;
-
-&lt;p&gt;This should show up on the phone, allowing the person using it to click what the conditions are. This program will allow us to do different things on the field without requiring us to write 9 Opmodes or lose one in a sea of others. &lt;/p&gt;
-</description>
-        <pubDate>Sat, 28 Nov 2015 12:04:12 -0800</pubDate>
-        <link>localhost:4000/2015/11/28/collector/</link>
-        <guid isPermaLink="true">localhost:4000/2015/11/28/collector/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Session #32</title>
-        <description>&lt;h2&gt;New Iteration of the Block Collector Mechanism&lt;/h2&gt;
-
-&lt;p&gt;Wilson and Shanti worked on the new block collection mechanism. We have been through many iterations, so hopefully this design is the one we chose.&lt;/p&gt;
-
-&lt;p&gt;In this design, we use two flippers to lift blocks upward against a moving conveyor on the back of the lift. This design focuses on moving the blocks upward so that we can drop them into the scoring mechanism Peter is making. Shanti and Wilson thought that having a moving conveyor on the back of the block lift would help us move the blocks up without having them fall down the lift.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post32-1.jpg&quot; alt=&quot;block collector&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Tetrix Frame For New Block Collector.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Debris track under Robot&lt;/h2&gt;
-
-&lt;p&gt;Matt and Isaac worked on making a mechanism that guides the debris under the robot. We were having problems with stuck debris, so this mechanism should allow us to move across the field without having too much trouble.&lt;/p&gt;
-
-&lt;p&gt;Their design had a track under the robot that guides all debris under without getting stuck in the treads. They started this design yesterday, but were able to finish it up today. They did a test where they drove over a large clump of blocks and found their robot glided over them easily.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post32-2.jpg&quot; alt=&quot;debris guide&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Mounting Place For Debris Management.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Getting to the High Zone&lt;/h2&gt;
-
-&lt;p&gt;After figuring out that we needed to be able to get around debris easier, Matt and Isaac made many modifications to the robot. They added 3D printed grippers to the treads. Finally, after switching out a few motors, they were able to do a test to see if we could get to the high zone of the mountain.&lt;/p&gt;
-
-&lt;p&gt;This test proved to be incredibly successful! Our robot was able to climb all the way up the mountain to the high zone. Our robot did this incredibly efficiently and in a very short amount of time.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post32-3.jpg&quot; alt=&quot;isaac with robot&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Isaac With The Robot On The Field.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;CADing the Robot&lt;/h2&gt;
-
-&lt;p&gt;Samin CADed the robot. He got most of it done, but still has a little left that he can finish by practice Tuesday. This CAD model will be helpful when seeing where we want to add parts to our robot. Samin will then send the CAD to PacFab, and they will print it for us.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post32-4.jpg&quot; alt=&quot;samin with computer&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Samin Working With His Computer.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Continuing to build the STAR Program Soccer Chassis #2&lt;/h2&gt;
-
-&lt;p&gt;Robert worked on the 2nd soccer robot. This robot will be used to play soccer during the STAR program’s outreach. After this chassis and robot is completed, we will have two robots that kids can use to play soccer against each other. Robert was able to make changes to the chassis and add two wheels to it. Unfortunately, he wasn’t able to finish the wheels because we don’t have enough gears for the other two. Robert hopes to continue this project and get it done before 12/8/15, when he, Arielle, and Willy are going to The Bush School to outreach to elementary students.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post32-5.jpg&quot; alt=&quot;star cassis&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;STAR Program’s 2nd Soccer Chassis.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Laser Cutting the Notebook Binder&lt;/h2&gt;
-
-&lt;p&gt;Wilson worked on making an awesome cover to our engineering notebook. We wanted our notebook to stand out, so Wilson decided that we would making a binder out of thin sheets of wood with a laser cut cover. In the cover, he laser cut 2856, Tesseract, and a Tesseract cube. He added hinges and turned it into a binder that we could use. The final print looks really cool. We are still deciding if it is the binder we are going to use for our final notebook.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post32-6.jpg&quot; alt=&quot;laser&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Laser Cut Items on the Laser Cutter.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Tread Debris Blocks&lt;/h2&gt;
-
-&lt;p&gt;Matt and Isaac cutout metal shields for our treads. These would help our robot not get stuck on the debris. These blockers were mounted on servos and could raise up when we wanted to climb the ramp.&lt;/p&gt;
-
-&lt;p&gt;These blockers really helped our robot move efficiently across the field.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post32-7.jpg&quot; alt=&quot;debris blocker&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Debris Blocker for Treads.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Mountain Hook&lt;/h2&gt;
-
-&lt;p&gt;Peter worked on the hook that our robot uses to attach to the top rung of the mountain. This rack and pinion system that acts as a hook stops us from slipping backward when we raise the back wheel. Normally, the back wheel will stabilize us, but in order to get points for parking in the high zone, we need to raise the back wheel so we are fully in the high zone. The rules say that if we are putting weight in the mid zone, we would not get points for the high zone, only the mid. Our team decided that we wanted to go for high zone points, so Arielle and Robert started the rack and pinion system that keeps us from slipping yesterday and Peter is working on finishing it. He was not able to finish it, so hopefully we can make it a little more study and then put it on the robot soon.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post32-8.jpg&quot; alt=&quot;peter&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Peter in the Workshop, Working Away.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Making the GitHub Sponsor video&lt;/h2&gt;
-
-&lt;p&gt;AJ worked on making a sponsor video. A SAAS Alum who works at GitHub will send us cool GitHub stuff like shirts and stickers. In order to get them as a sponsor, we are going to send them a video about how our team uses GitHub.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Perfecting the Debris Conveyor System&lt;/h2&gt;
-
-&lt;p&gt;Peter also worked on perfecting the debris collector. He finished the conveyor part, which is now made out of polyurethane. This new system scores blocks out either side very efficiently. It uses a servo at either end to fold down a dumper. This dumping mechanism allows the blocks to slide away from the robot into the scoring bins, instead of the blocks falling on the robot.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post32-9.jpg&quot; alt=&quot;peter&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Peter Building The Treaded Conveyor System.&lt;/span&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 28 Nov 2015 12:04:12 -0800</pubDate>
-        <link>localhost:4000/2015/11/28/debris/</link>
-        <guid isPermaLink="true">localhost:4000/2015/11/28/debris/</guid>
         
         
       </item>

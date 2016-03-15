@@ -1,0 +1,53 @@
+---
+layout:     post
+title:      "Session #55"
+subtitle:   "Focus of The Day: Pit Extravaganza"
+date:       2016-02-10 20:04:12
+---
+
+<h2>Setting Up the Pit</h2>
+
+<p>We worked on setting up our PBC pit and making sure that our set up from last year would work. We started to plan out posters we would make and how our tables would be set up. We discussed the best use of our space and how we wanted to organize it this year.</p>
+
+<img src="{{ site.baseurl }}/img/post55-1.jpg" alt="pit" width="50%">
+<span style="text-align: left;" class="caption text-muted">Setting Up The Pit.</span>
+
+<hr>
+
+<h2>Replacing the Polycarbonate</h2>
+
+<p>Peter worked on replacing the polycarbonate belt of the scoring mechanisms. We decided to replace it to make it more robuts to make sure it is not going to fall apart.</p>
+
+<p>We are also working on modifying this mechanism because we want to make it more efficient and faster. We want it to be faster at scoring so that we can do more trips of blocks. Our changes should also make it less prone to jamming, which has been a problem in the past.</p>
+
+<img src="{{ site.baseurl }}/img/post55-2.jpg" alt="poly" width="50%">
+<span style="text-align: left;" class="caption text-muted">The Side of The Robot.</span>
+
+<hr>
+
+<h2>Order Acrylic</h2>
+
+<p>Wilson worked on ordering acrylic for our notebook. This acrylic would be used to make the top of our notebook.</p>
+
+<hr>
+
+<h2>Budget Talk</h2>
+
+<p>Our team also worked to talk about our budget. We decided what we were going to buy for Super Regionals. We decided we wanted to spend some money buying new posters, Tesseract balloons, and more cube-related items.</p>
+
+<hr>
+
+<h2>Decompiling (hopefully)</h2>
+
+<p>In the FTC app, there is source code and compiled code. We don’t have the source code for the compiled code. AJ and Matt are trying to decompile the binary so they can modify it. They tried variations of two basic approaches: decompiling the binary, modifying it, and recompiling it or decompiling it and integrating it back into the main source tree. Nothing has worked so far. In the future, they hope to get it to work.</p>
+
+<img src="{{ site.baseurl }}/img/post55-3.jpg" alt="code" width="50%">
+<span style="text-align: left;" class="caption text-muted">Coders Working Away.</span>
+
+<hr>
+
+<h2>Restart the robot through code</h2>
+
+<p>Isaac is making a program that lets the driver communicate with the inner workings of the robot through opmodes. The goal is to eventually be able to restart the robot through opmodes. So, if there is an error, we can restart the robot. He is tweaking the socket, which is an internet connection within a device. He is sending data back and forth through that. He is not done yet, but he has gotten data sending, so he is close. This is in addition to AJ and Matt’s project. They are making changes deeper than the code and Isaac wants to be able to communicate deeper in the code. </p>
+
+<p>If AJ and Matt do not figure out how to do their project. we can do simple things like restart the robot, but it won’t be as complex as we want.</p>
