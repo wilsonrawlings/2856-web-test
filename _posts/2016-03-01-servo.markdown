@@ -1,0 +1,61 @@
+---
+layout:     post
+title:      "Session #59"
+subtitle:   "Focus of The Day: Servo Calibrator of Awesomeness Day 1"
+date:       2016-03-01 20:04:12
+---
+
+<h2>Servo Calibrator of Awesomeness</h2>
+
+<p>Matt continued making the servo calibrator. It will allow us to calibrate servos without having to continually tweak values. It will probably make servo calibrating 8 times as fast as before. He used an Arduino to output the value it’s sending to the servo, as well as sending the value to an LCD screen. This way, we can get real time feedback about what value the servo is at. We can calibrate things more efficiently. We can move the dial to position the servo then read the value off and upload that into the code.</p>
+
+<img src="{{ site.baseurl }}/img/post59-1.jpg" alt="matt" width="50%">
+<span style="text-align: left;" class="caption text-muted">Building Servo Callibrator.</span>
+
+<hr>
+
+<h2>Continuing to color code the notebook</h2>
+
+<p>Arielle worked on continuing to color code the notebook for the judge’s ease of reading. She is almost done and only has a few more posts to do! There are color coded tesseracts that relate to each area of our team and you can see them on the left of the title.</p>
+
+<hr>
+
+<h2>Drive practice</h2>
+
+<p>The drive team tested the time of different actions to figure out our scoring potential. We can barely do three trips in time. We are going to do three trips and hang, or there is a possibility for us to do 3 low zone trips on the far side. </p>
+
+<p>Our highest score was 220 without autonomous and our average was 140 points without autonomous.</p>
+
+<p>They also discussed driver - coach relations. They learned that communication is challenging and they need to practice. They are going to practice driving and listening at the next practices.</p>
+
+<img src="{{ site.baseurl }}/img/post59-2.jpg" alt="drive" width="50%">
+<span style="text-align: left;" class="caption text-muted">Isaac and Wilson Doing Drive Practice.</span>
+
+<hr>
+
+<h2>Making new t-shirts</h2>
+
+<p>Shanti made three t-shirt designs for a new t-shirt at Super Regionals. It needs to have our logo, the Tesseract, as well as possibly our name and our number. All of her designs are on t-shirts and she didn’t realize we had a logo, so they have a different tesseract. </p>
+
+<p>Arielle and Willy figured out what they could do on polos. They found that an embroidered polo is very expensive and they can’t do a lot of designing on it, but Wilson is adamant it be embroidered. Arielle is going to check her polo from work to see what it is as a possible alternative. Shanti will probably continue working on her t-shirt designs, but with the proper logo.</p>
+
+<hr>
+
+<h2>Gear Box</h2>
+
+<p>Samin worked on the gear box. He didn’t think it was worth working on right now because the gear box right now is not stripping. There are other, more important things.</p>
+
+<hr>
+
+<h2>Block guards removed</h2>
+
+<p>Peter designed guards for the front treads. They are little aluminum pieces to keep blocks from getting in our treads. After putting it on, they realized that it hit, bent, scratched, and scraped the ramp. It got in the robot’s way. This was taken off immediately. They might try another idea later.</p>
+
+<img src="{{ site.baseurl }}/img/post59-3.jpg" alt="samin" width="50%">
+<span style="text-align: left;" class="caption text-muted">Samin Working On The Chassis.</span>
+
+<hr>
+
+<h2>Moving the button press</h2>
+
+<p>Samin moved the button press mechanism to another position. This saves time. He moved it from the front to the back of the robot. We no longer have to turn the entire robot around every time we want to press the button.</p>

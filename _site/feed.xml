@@ -5,9 +5,122 @@
     <description>The Webpage for Red Shift Robotics&#39; 2856 Tesseract.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 15 Mar 2016 11:12:01 -0700</pubDate>
-    <lastBuildDate>Tue, 15 Mar 2016 11:12:01 -0700</lastBuildDate>
+    <pubDate>Tue, 15 Mar 2016 17:00:06 -0700</pubDate>
+    <lastBuildDate>Tue, 15 Mar 2016 17:00:06 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Session #59</title>
+        <description>&lt;h2&gt;Servo Calibrator of Awesomeness&lt;/h2&gt;
+
+&lt;p&gt;Matt continued making the servo calibrator. It will allow us to calibrate servos without having to continually tweak values. It will probably make servo calibrating 8 times as fast as before. He used an Arduino to output the value it’s sending to the servo, as well as sending the value to an LCD screen. This way, we can get real time feedback about what value the servo is at. We can calibrate things more efficiently. We can move the dial to position the servo then read the value off and upload that into the code.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post59-1.jpg&quot; alt=&quot;matt&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Building Servo Callibrator.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Continuing to color code the notebook&lt;/h2&gt;
+
+&lt;p&gt;Arielle worked on continuing to color code the notebook for the judge’s ease of reading. She is almost done and only has a few more posts to do! There are color coded tesseracts that relate to each area of our team and you can see them on the left of the title.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Drive practice&lt;/h2&gt;
+
+&lt;p&gt;The drive team tested the time of different actions to figure out our scoring potential. We can barely do three trips in time. We are going to do three trips and hang, or there is a possibility for us to do 3 low zone trips on the far side. &lt;/p&gt;
+
+&lt;p&gt;Our highest score was 220 without autonomous and our average was 140 points without autonomous.&lt;/p&gt;
+
+&lt;p&gt;They also discussed driver - coach relations. They learned that communication is challenging and they need to practice. They are going to practice driving and listening at the next practices.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post59-2.jpg&quot; alt=&quot;drive&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Isaac and Wilson Doing Drive Practice.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Making new t-shirts&lt;/h2&gt;
+
+&lt;p&gt;Shanti made three t-shirt designs for a new t-shirt at Super Regionals. It needs to have our logo, the Tesseract, as well as possibly our name and our number. All of her designs are on t-shirts and she didn’t realize we had a logo, so they have a different tesseract. &lt;/p&gt;
+
+&lt;p&gt;Arielle and Willy figured out what they could do on polos. They found that an embroidered polo is very expensive and they can’t do a lot of designing on it, but Wilson is adamant it be embroidered. Arielle is going to check her polo from work to see what it is as a possible alternative. Shanti will probably continue working on her t-shirt designs, but with the proper logo.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Gear Box&lt;/h2&gt;
+
+&lt;p&gt;Samin worked on the gear box. He didn’t think it was worth working on right now because the gear box right now is not stripping. There are other, more important things.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Block guards removed&lt;/h2&gt;
+
+&lt;p&gt;Peter designed guards for the front treads. They are little aluminum pieces to keep blocks from getting in our treads. After putting it on, they realized that it hit, bent, scratched, and scraped the ramp. It got in the robot’s way. This was taken off immediately. They might try another idea later.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post59-3.jpg&quot; alt=&quot;samin&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Samin Working On The Chassis.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Moving the button press&lt;/h2&gt;
+
+&lt;p&gt;Samin moved the button press mechanism to another position. This saves time. He moved it from the front to the back of the robot. We no longer have to turn the entire robot around every time we want to press the button.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Mar 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/03/01/servo/</link>
+        <guid isPermaLink="true">localhost:4000/2016/03/01/servo/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Session #58</title>
+        <description>&lt;h2&gt;Building a better Binder&lt;/h2&gt;
+
+&lt;p&gt;Our team worked on building a better notebook binder for Super Regionals. This new binder went through many iterations. First we went through using 1/4tg inch wood with a 1/8th inch acrylic back. We didn’t like how thick this was, so we moved to at 1/8th inch wood piece and 1/8th inch piece of acrylic sheet. We had trouble aligning the wood and acrylic and so we had to redo it a few times. When we redid it, we had to clean of the glue and try again. We were not able to bfinish today, but hopefully we can next practice.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post58-1.jpg&quot; alt=&quot;samin&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Samin Gluing.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Image Process implementation for the button press&lt;/h2&gt;
+
+&lt;p&gt;Isaac and Matt worked on implementing the image processing code that allows our robot to hit the correct beacon in autonomous. After adding this program, we can now start to implement a mechanism to hit the button. For the mechanism, we are going to use a mousepad that will conform to the button. This mousepad will allow us to hit the button without using a mechanism that would have to move to hit the button. We can now just use our preexisting systems to hit it!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post58-2.jpg&quot; alt=&quot;coders&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Coders Working on Code.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Side Collectors&lt;/h2&gt;
+
+&lt;p&gt;Shanti worked on making new side collectors. These new ramps should work better than the old method we had. The old ramps were too squishy and the blocks went under them. These new ramps should be more rigid and allow us to gather blocks.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post58-3.jpg&quot; alt=&quot;shanti&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Shanti Hard At Work.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Reformatting the Notebook&lt;/h2&gt;
+
+&lt;p&gt;Arielle worked today on reformatting the notebook. She is adding a few new formatting changes such as new logos, different fonts, and a new background colors for the task column. She is also working on adding a few new pictures that take up some of the blank space we had. We want to make sure we are using up the blank space and following all the rules.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post58-4.jpg&quot; alt=&quot;arielle&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Arielle Working On The Notebook.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;New Gear Box&lt;/h2&gt;
+
+&lt;p&gt;Samin worked on making our new gear box for the hanging mechanism. We used our lathe and our new hexagonal stock. We turned down the hexagonal stock for a part for our new gear box. This will also prevent our gears from slipping.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Feb 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/02/24/binder/</link>
+        <guid isPermaLink="true">localhost:4000/2016/02/24/binder/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Session #57</title>
@@ -293,99 +406,6 @@
         <pubDate>Sat, 23 Jan 2016 12:04:12 -0800</pubDate>
         <link>localhost:4000/2016/01/23/chassis/</link>
         <guid isPermaLink="true">localhost:4000/2016/01/23/chassis/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Session #49</title>
-        <description>&lt;h2&gt;Electronics&lt;/h2&gt;
-
-&lt;p&gt;The electronics we made yesterday turned out to be too large and in the wrong configuration. This meant today Wilson had to reconfigure them and put them different places. He had to redesign, laser cut, and assemble his new idea. He is now mounting, which has been very difficult given that there is not much space.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Scoring Mechanism Protection&lt;/h2&gt;
-
-&lt;p&gt;We put two new bars on the front of our robot to protect our scoring mechanism from hitting the top bar while we hang. These bars will make sure our scoring doesn’t get damaged in the process of hanging.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Zipliners&lt;/h2&gt;
-
-&lt;p&gt;Shanti worked on fixing the zipliner hitters on the side of the robot. These “wings” of the robot fold down to hit the zipliners. These Tetrix wings are a lot stronger than our old flippers which bent backwards. These new zipliner hitters are attached to servos that allow them to fold down once that match starts, letting us still fit in the 18x18x18 sizing cube.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Coming a long ways&lt;/h2&gt;
-
-&lt;p&gt;Over today’s practice, we have made some incredible progress, some of the best we have ever made. We added our electronics, a mechanism to keep the scoring mechanism secure, zip line hitters, a metal debris blocker, attaching the debris scorer and hanging mechanism.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 22 Jan 2016 12:04:12 -0800</pubDate>
-        <link>localhost:4000/2016/01/22/transform/</link>
-        <guid isPermaLink="true">localhost:4000/2016/01/22/transform/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Session #48</title>
-        <description>&lt;h2&gt;Adding the Scoring Mechanism&lt;/h2&gt;
-
-&lt;p&gt;Samin and Peter worked on adding the scoring mechanism. The ended up having to change the height, size, and dimensions of the scoring mechanism. They had to change all of this to make if fit the new chassis. This proved to take a lot of time, but today they finally got it on. Now they are working changing the size of the motor mount so it fits the new scoring mechanism. They are trying to get it motorized, and they are very close. They changed the length to avoid blocks jamming. They also redid the gearing to make the gears a better fit. After this, they hope to add the scoring mechanism.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post48-1.jpg&quot; alt=&quot;score&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;The Scoring Mechanism on the Chassis.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Electronics&lt;/h2&gt;
-
-&lt;p&gt;Wilson worked on making the motor controllers and electronics. He designed the mount on Solidworks and printing before finally putting it all together. He used the new nylon screws to keep it together. We are doing new plastic screws to reduce static shock.&lt;/p&gt;
-
-&lt;p&gt;We may need to redesign this system if we have to move it to make room for the tape measure mechanism, which we had trouble finding room for.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post48-2.jpg&quot; alt=&quot;electronics&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Electronics Mounted On PolyCarb.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Poster Design&lt;/h2&gt;
-
-&lt;p&gt;Willy, Arielle, and Robert worked on putting together posters for state. They decided what sections would be on each of the four posters (chassis, mechanisms, coding, and outreach). They created a format that they would use on all the posters, and they hope to finish and print these soon so they can get them for state.&lt;/p&gt;
-
-&lt;p&gt;Right now we are putting together pictures and information before formatting them.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post48-3.jpg&quot; alt=&quot;peopel&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Designing Posters.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Mounting the block Dumper&lt;/h2&gt;
-
-&lt;p&gt;The block dumper is finally getting put on! Our team worked hard today to make room for the block dumper, which we have been excited to add. The block dumper was not on our old robot, so it will be awesome to finally be able to score blocks. The block dumper design started many months ago when Robert and Arielle worked on a conveyor idea to score blocks on either side of the mountain.&lt;/p&gt;
-
-&lt;p&gt;Isaac and Matt worked on mounting the block scoring mechanism. They attached the block scorer to two pieces of 20x20 extrusion. This allows the scoring mechanism to be adjustable as we try to figure out the best height for scoring blocks.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post48-4.jpg&quot; alt=&quot;scorer&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Block Scorer.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Adding the Tape Measure Hanging System&lt;/h2&gt;
-
-&lt;p&gt;We are going to be using the same tape measure as we used on the last chassis. We cut off 3 feet of tape from the mechanism to make sure we had a strong part that could let us hang reliably.&lt;/p&gt;
-
-&lt;p&gt;Isaac, Matt, and Samin worked to make the mechanism more secure and reliable.&lt;/p&gt;
-
-&lt;p&gt;We are hoping to add this to the robot soon, however, we want to work on adding the other important mechanisms first. We had a lot of trouble finding room for the mechanism, however, we finally think we found a spot above the cube dumper. Hopefully we can fit all of our desired mechanisms!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post48-5.jpg&quot; alt=&quot;hang&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Hang Mechanism.&lt;/span&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 21 Jan 2016 12:04:12 -0800</pubDate>
-        <link>localhost:4000/2016/01/21/mech/</link>
-        <guid isPermaLink="true">localhost:4000/2016/01/21/mech/</guid>
         
         
       </item>
