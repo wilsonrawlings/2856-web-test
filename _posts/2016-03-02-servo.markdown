@@ -1,0 +1,33 @@
+---
+layout:     post
+title:      "Session #60"
+subtitle:   "Focus of The Day: Servo Calibrator of Awesomeness Day 2"
+date:       2016-03-02 20:04:12
+---
+
+<h2>Servo Calibration of Awesomeness</h2>
+
+<p>Matt finished the servo calibrator he has been working on for the past few days. Today he encased it in a polycarbonate casing which allowed it to be more durable. This ensures that it is actually useful when calibrating servos and not something that is burdensome to use. The servo calibrator works incredibly well right now and even today has already been used to calibrate the servos for the all clear mechanism we made today.</p>
+
+<p>The one issue with it in its current state is that it has to drive the LCD screen, Arduino, and servo all off of one battery. This means that if the servo encounters resistance, the LCD screen will lose power until the resistance is removed. This means that servos that use a lot of torque are cumbersome to calibrate with the current system, but it will be easy to add another 12v input to attach a standard battery which would be used for just powering the servo, allowing for more realistic torque.</p>
+
+<img src="{{ site.baseurl }}/img/post60-1.jpg" alt="matt" width="50%">
+<span style="text-align: left;" class="caption text-muted">Matt's Servo Calibrator.</span>
+
+<hr>
+
+<h2>Drive Practice</h2>
+
+<p>Our drive team, Isaac, Wilson, and Samin, did extensive drive practice. Today we tested an alternate scenario that we could see occurring in future competitions. Our robot is designed to climb the ramp on which our alliance has the climbers and midzone bucket. But we are aware that there may be other robots that would like to use that side as well that we may be partnered with. So in this round of drive practice we tested our effectiveness when working on the opposite ramp and attempting to score in the high zone (with moderate success). By slightly modifying the ramps our block scorer uses we think that we can score to some degree in the high zone goal as we go up to hang. We can also of course score blocks in the low goal. We tested this strategy today in drive practice. We had some good and some bad rounds, none of them met our full potential as we are still working out the bugs. Here is our scoresheet for the day.</p>
+
+<img src="{{ site.baseurl }}/img/post60-2.jpg" alt="matt" width="50%">
+<span style="text-align: left;" class="caption text-muted">Drive Data.</span>
+
+<hr>
+
+<h2>All-clear Mechanism</h2>
+
+<p>Today Peter and Matt also worked on making a mechanism that would allow us to trigger the all-clear signal at the top of the ramp while hanging. We are already in the perfect position when we hang and so it was a simple matter of attaching a servo with a length of thin Tetrix to either side of our robot that flips over to trigger the beacon. We ran into a few clearance issues with motors, but they were easily fixed by shifting the extruded aluminum the mechanism is mounted on slightly to either side. This mechanism could be improved slightly by creating struts that would run parallel to the main rod that hits the all-clear signal as it would provide more surface area to contact the all-clear signal, but it would put us extremely close to being outside the 18x18 inch box and the mechanism works extremely well already in preliminary testing so these struts are probably not necessary. Below is a picture of the mechanism in its not-deployed state.</p>
+
+<img src="{{ site.baseurl }}/img/post60-3.jpg" alt="all-clear" width="50%">
+<span style="text-align: left;" class="caption text-muted">All-Clear.</span>

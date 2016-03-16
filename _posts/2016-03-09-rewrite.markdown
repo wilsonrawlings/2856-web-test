@@ -1,0 +1,46 @@
+---
+layout:     post
+title:      "Session #62"
+subtitle:   "Focus of The Day: Rewiring"
+date:       2016-03-09 20:04:12
+---
+
+<h2>Continuing Moving the Wiring</h2>
+
+<p>Our team continued to rewire parts of the robot so that we could get better access the wiring. We also wanted to get our wiring out the way of the hanging mechanism. After fixing this hanging mechanism, we were able to do drive practice.</p>
+
+<img src="{{ site.baseurl }}/img/post62-1.jpg" alt="isaac" width="50%">
+<span style="text-align: left;" class="caption text-muted">Isaac Working on The Robot.</span>
+
+<hr>
+
+<h2>Matt and AJ on...THE ALGORITHM</h2>
+
+<p>Matt worked on The Algorithm. He worked on getting the NDK to compile with Gradle in Android Studio. This required that he update to an experimental version of the Android Plugin and Gradle. This broke compatibility with some of the existing FTC infrastructure and Matt spent most of the practice working out these issues. Most of the problems have been solved however Matt has still not successfully deployed an OpenCV project. That will hopefully happen during the next practice.</p>
+
+<img src="{{ site.baseurl }}/img/post62-2.jpg" alt="aj" width="50%">
+<span style="text-align: left;" class="caption text-muted">Working on THE ALGORITHM.</span>
+
+<hr>
+
+<h2>Cutting washers for conveyor system</h2>
+
+<p>Matt and Samin worked on cutting washers to make sure the conveyor system would not come off the mechanism.</p>
+
+<p>Our scoring mechanism kept breaking because we were fixing some of the parts of the scoring mechanisms. We had taken off the ramps and not replaced them because we wanted to fix the angle.</p>
+
+<img src="{{ site.baseurl }}/img/post62-3.jpg" alt="matt" width="50%">
+<span style="text-align: left;" class="caption text-muted">Working in the Shop.</span>
+
+<hr>
+
+<h2>Setting up the tent for the pit</h2>
+
+<p>The team needed to decide between a tent and a PVC pipe pit. Robert and Arielle went to grab a Seattle nAcademy tent from facilities to test out what it looked like. If we choose PVC, we would have to buy more pipe to give it more structure for lights. </p>
+
+<p>Robert, Arielle, Peter, and Wilson set up the tent and pulled AJ and Matt to the lobby to decide what to do. The tent is 10x15, so we would just have to grab a smaller tent.</p>
+
+<p>The team decided on using the tent. It looks a lot better and we can hang tools off the top :-) (Matt’s idea). The next step is ask facilities and athletics to borrow a 10x10 tent for Super Regionals. In addition, hopefully we can procure it before the competition to figure out what it looks like.</p>
+
+<img src="{{ site.baseurl }}/img/post62-4.jpg" alt="tent" width="50%">
+<span style="text-align: left;" class="caption text-muted">A Tent In The Lobby.</span>

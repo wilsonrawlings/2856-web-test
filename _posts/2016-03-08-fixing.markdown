@@ -1,0 +1,35 @@
+---
+layout:     post
+title:      "Session #61"
+subtitle:   "Focus of The Day: Fixing Problems"
+date:       2016-03-08 20:04:12
+---
+
+<h2>USB Hub and Core Module failing</h2>
+
+<p>Our team worked today on remounting our electronics. Our electronics were not very well mounted, and so it was hard to get to what we needed to fix. The USB hub was breaking and not working well, so we needed to redo it. We decided to remount all our electronics to make it very accessible because before they were hard to fix.</p>
+
+<hr>
+
+<h2>Configuring the NDK</h2>
+
+<p>Matt worked on setting up the Native Development Kit which allows us to program in C++. This is beneficial because it allows us to use the OpenCV library which allows us to do very advanced image processing. We will then have a very advanced positioning system by running image processing on the walls of the field to determine angle and distance from the walls. Thisf gives us a good idea of our position by using hough transform which looks at lines and determines information based on how lines intersect.</p>
+
+<hr>
+
+<h2>Pit designs</h2>
+
+<p>Arielle and Robert worked on designing a pit for Super Regionals. They are trying to decide if we will use a tent or make our own PBC pit.</p>
+
+<p><strong>PBC upsides:</strong></p>
+<p>-unique</p>
+<p>-open and doesn’t feel trapped</p>
+<p><strong>Tent upsides:</strong></p>
+<p>-what everyone uses</p>
+<p>-solid</p>
+<p>-looks good</p>
+<p><strong>PBD downsides:</strong></p>
+<p>-has to be created</p>
+<p>-looks bad if not decorated well</p>
+<p><strong>Tent downsides:</strong></p>
+<p>-feels trapped and could feel too enclosed</p>

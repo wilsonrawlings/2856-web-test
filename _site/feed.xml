@@ -5,9 +5,209 @@
     <description>The Webpage for Red Shift Robotics&#39; 2856 Tesseract.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 15 Mar 2016 17:00:06 -0700</pubDate>
-    <lastBuildDate>Tue, 15 Mar 2016 17:00:06 -0700</lastBuildDate>
+    <pubDate>Tue, 15 Mar 2016 17:51:47 -0700</pubDate>
+    <lastBuildDate>Tue, 15 Mar 2016 17:51:47 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Session #63</title>
+        <description>&lt;h2&gt;Troubleshooting during drive practice&lt;/h2&gt;
+
+&lt;p&gt;During drive practice, a lot of problems cropped up. The robot continued to lose battery power and would disconnect or the treads would fall off. Samin and Isaac worked on the treads, made the scoring mechanism work, and focused on understanding why battery power is draining so fast on the robot. &lt;/p&gt;
+
+&lt;p&gt;There used to be a ramp when the blocks went in, but now we’re collecting straight into it. He added a back plate to the scoring mechanism so the blocks don’t fall out the back. It prevents blocks from getting stuck in the robot and us getting a penalty. &lt;/p&gt;
+
+&lt;p&gt;Something is draining our battery very fast and that problem needs to be fixed before we head to Super Regionals. He is finding what uses the most battery to identify this problem. They are still working on finding an answer.&lt;/p&gt;
+
+&lt;p&gt;After practice, the team investigated. To understand where all the power is being used, the team first measured the amps used with the whole robot. It measured 20 amps. We knew a lot of the resistance was from the treads, so we first measured the robot right side up. Measuring that, we found that the treads drew 15 amps! We wanted to see if it was the weight of the robot, so we flipped it over and measured again, but this still drew 14 amps. Next, we took off the treads and only measured 0.4 amps and thought something was wrong. But, measuring just a 40:1 motor not on the robot, we measured 0.03 amps, meaning our measurement is probably correct.&lt;/p&gt;
+
+&lt;p&gt;Clearly, treads and tensioning are the problem. We’re not exactly sure what to do yet because there is not enough time to make drastic changes. We could try wheels, we could try taking pieces off the treads, but we decided to think about it over the weekend.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post63-1.jpg&quot; alt=&quot;isaac&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Isaac On The Field.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Pit Work feat. Origami Party&lt;/h2&gt;
+
+&lt;p&gt;The pit is coming together! The poster, business cards, and caramels have arrived at the school. Gabe emailed the athletics department and is procuring a 10x10 tent for Super Regionals. The poster will be hung in this tent and the business cards and caramels will be passed out there. &lt;/p&gt;
+
+&lt;p&gt;Because the season is winding down and there aren’t a ton of projects, a lot of work has been going into doing the pit. The team finished folding 200 origami blow up cubes to put on lights in the pit! They engineered an assembly line using some wood, a box, and yarn to pull the partially folded origami cubes to the next group of people who finished them and put them in a box. It was really fun, accompanied by some zen music to establish the Japanese Garden style that was our focus for the day.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post63-2.jpg&quot; alt=&quot;isaac&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Oragami Party.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;2856 Website&lt;/h2&gt;
+
+&lt;p&gt;Wilson and Matt worked on creating the 2856 website. Currently, there is a Red Shift website that Wilson was working on, but because just 2856 is going to Super Regionals, we needed to make our own. The Red Shift website will link to our page, 2856.io. They started running a Jekyll server. This will allow them to easily interpret word documents into an online format. This will allow the team to post the entire notebook online, which we currently can’t do. This will take a lot more time to make it the best it can be, so Matt and Wilson will continue doing it outside of drive practice.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Aligning Axles&lt;/h2&gt;
+
+&lt;p&gt;Peter helped fix the drive train by making a part that holds the axles together. He used a small piece of steel with two holds in it to hold the axles in place. The axles move apart and messes up the angle of the sprockets, which makes the chain fall off. This fixed the problem so far.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Outreach Essay&lt;/h2&gt;
+
+&lt;p&gt;Our team worked on writing about some extensive outreach events we have worked at. These included hosting our school’s robotics summer camp last year and teaching students to code in Zambia.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Going out to Lunch&lt;/h2&gt;
+
+&lt;p&gt;Our team went out to lunch today during our long Saturday practice. We all went over to Rancho Bravo, which is a Mexican restaurant close to our school. We enjoyed walking over there together and hanging out outside of our robotics studio. After we came back from lunch, we were very refreshed and continued to work efficiently.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post63-3.jpg&quot; alt=&quot;isaac&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;We Just Got Back From Lunch!&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Super Regionals Decorations: Chain and Necklaces&lt;/h2&gt;
+
+&lt;p&gt;Our team was able to make quite a few decorations for Super Regionals. We first made a nice chain out of 3D printed tesseracts and “2856” signs made out of acrylic.&lt;/p&gt;
+
+&lt;p&gt;We then worked on putting string on the necklaces Wilson had cut out of acrylic. These necklaces are personalized, and say the last name of our team members. We also made a few necklaces that say “fan” for parents that fly down to California.&lt;/p&gt;
+
+&lt;p&gt;The driver, operator, and field coach also have special labels on them!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post63-4.jpg&quot; alt=&quot;signs&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Pit Signs.&lt;/span&gt;
+&lt;img src=&quot;/img/post63-5.jpg&quot; alt=&quot;signs&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Sit Signs.&lt;/span&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 Mar 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/03/12/troubleshoot/</link>
+        <guid isPermaLink="true">localhost:4000/2016/03/12/troubleshoot/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Session #62</title>
+        <description>&lt;h2&gt;Continuing Moving the Wiring&lt;/h2&gt;
+
+&lt;p&gt;Our team continued to rewire parts of the robot so that we could get better access the wiring. We also wanted to get our wiring out the way of the hanging mechanism. After fixing this hanging mechanism, we were able to do drive practice.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post62-1.jpg&quot; alt=&quot;isaac&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Isaac Working on The Robot.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Matt and AJ on...THE ALGORITHM&lt;/h2&gt;
+
+&lt;p&gt;Matt worked on The Algorithm. He worked on getting the NDK to compile with Gradle in Android Studio. This required that he update to an experimental version of the Android Plugin and Gradle. This broke compatibility with some of the existing FTC infrastructure and Matt spent most of the practice working out these issues. Most of the problems have been solved however Matt has still not successfully deployed an OpenCV project. That will hopefully happen during the next practice.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post62-2.jpg&quot; alt=&quot;aj&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Working on THE ALGORITHM.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Cutting washers for conveyor system&lt;/h2&gt;
+
+&lt;p&gt;Matt and Samin worked on cutting washers to make sure the conveyor system would not come off the mechanism.&lt;/p&gt;
+
+&lt;p&gt;Our scoring mechanism kept breaking because we were fixing some of the parts of the scoring mechanisms. We had taken off the ramps and not replaced them because we wanted to fix the angle.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post62-3.jpg&quot; alt=&quot;matt&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Working in the Shop.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Setting up the tent for the pit&lt;/h2&gt;
+
+&lt;p&gt;The team needed to decide between a tent and a PVC pipe pit. Robert and Arielle went to grab a Seattle nAcademy tent from facilities to test out what it looked like. If we choose PVC, we would have to buy more pipe to give it more structure for lights. &lt;/p&gt;
+
+&lt;p&gt;Robert, Arielle, Peter, and Wilson set up the tent and pulled AJ and Matt to the lobby to decide what to do. The tent is 10x15, so we would just have to grab a smaller tent.&lt;/p&gt;
+
+&lt;p&gt;The team decided on using the tent. It looks a lot better and we can hang tools off the top :-) (Matt’s idea). The next step is ask facilities and athletics to borrow a 10x10 tent for Super Regionals. In addition, hopefully we can procure it before the competition to figure out what it looks like.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post62-4.jpg&quot; alt=&quot;tent&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;A Tent In The Lobby.&lt;/span&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Mar 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/03/09/rewrite/</link>
+        <guid isPermaLink="true">localhost:4000/2016/03/09/rewrite/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Session #61</title>
+        <description>&lt;h2&gt;USB Hub and Core Module failing&lt;/h2&gt;
+
+&lt;p&gt;Our team worked today on remounting our electronics. Our electronics were not very well mounted, and so it was hard to get to what we needed to fix. The USB hub was breaking and not working well, so we needed to redo it. We decided to remount all our electronics to make it very accessible because before they were hard to fix.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Configuring the NDK&lt;/h2&gt;
+
+&lt;p&gt;Matt worked on setting up the Native Development Kit which allows us to program in C++. This is beneficial because it allows us to use the OpenCV library which allows us to do very advanced image processing. We will then have a very advanced positioning system by running image processing on the walls of the field to determine angle and distance from the walls. Thisf gives us a good idea of our position by using hough transform which looks at lines and determines information based on how lines intersect.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Pit designs&lt;/h2&gt;
+
+&lt;p&gt;Arielle and Robert worked on designing a pit for Super Regionals. They are trying to decide if we will use a tent or make our own PBC pit.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PBC upsides:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;-unique&lt;/p&gt;
+&lt;p&gt;-open and doesn’t feel trapped&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tent upsides:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;-what everyone uses&lt;/p&gt;
+&lt;p&gt;-solid&lt;/p&gt;
+&lt;p&gt;-looks good&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PBD downsides:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;-has to be created&lt;/p&gt;
+&lt;p&gt;-looks bad if not decorated well&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tent downsides:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;-feels trapped and could feel too enclosed&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Mar 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/03/08/fixing/</link>
+        <guid isPermaLink="true">localhost:4000/2016/03/08/fixing/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Session #60</title>
+        <description>&lt;h2&gt;Servo Calibration of Awesomeness&lt;/h2&gt;
+
+&lt;p&gt;Matt finished the servo calibrator he has been working on for the past few days. Today he encased it in a polycarbonate casing which allowed it to be more durable. This ensures that it is actually useful when calibrating servos and not something that is burdensome to use. The servo calibrator works incredibly well right now and even today has already been used to calibrate the servos for the all clear mechanism we made today.&lt;/p&gt;
+
+&lt;p&gt;The one issue with it in its current state is that it has to drive the LCD screen, Arduino, and servo all off of one battery. This means that if the servo encounters resistance, the LCD screen will lose power until the resistance is removed. This means that servos that use a lot of torque are cumbersome to calibrate with the current system, but it will be easy to add another 12v input to attach a standard battery which would be used for just powering the servo, allowing for more realistic torque.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post60-1.jpg&quot; alt=&quot;matt&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Matt’s Servo Calibrator.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Drive Practice&lt;/h2&gt;
+
+&lt;p&gt;Our drive team, Isaac, Wilson, and Samin, did extensive drive practice. Today we tested an alternate scenario that we could see occurring in future competitions. Our robot is designed to climb the ramp on which our alliance has the climbers and midzone bucket. But we are aware that there may be other robots that would like to use that side as well that we may be partnered with. So in this round of drive practice we tested our effectiveness when working on the opposite ramp and attempting to score in the high zone (with moderate success). By slightly modifying the ramps our block scorer uses we think that we can score to some degree in the high zone goal as we go up to hang. We can also of course score blocks in the low goal. We tested this strategy today in drive practice. We had some good and some bad rounds, none of them met our full potential as we are still working out the bugs. Here is our scoresheet for the day.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post60-2.jpg&quot; alt=&quot;matt&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Drive Data.&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;All-clear Mechanism&lt;/h2&gt;
+
+&lt;p&gt;Today Peter and Matt also worked on making a mechanism that would allow us to trigger the all-clear signal at the top of the ramp while hanging. We are already in the perfect position when we hang and so it was a simple matter of attaching a servo with a length of thin Tetrix to either side of our robot that flips over to trigger the beacon. We ran into a few clearance issues with motors, but they were easily fixed by shifting the extruded aluminum the mechanism is mounted on slightly to either side. This mechanism could be improved slightly by creating struts that would run parallel to the main rod that hits the all-clear signal as it would provide more surface area to contact the all-clear signal, but it would put us extremely close to being outside the 18x18 inch box and the mechanism works extremely well already in preliminary testing so these struts are probably not necessary. Below is a picture of the mechanism in its not-deployed state.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post60-3.jpg&quot; alt=&quot;all-clear&quot; width=&quot;50%&quot; /&gt;
+&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;All-Clear.&lt;/span&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Mar 2016 12:04:12 -0800</pubDate>
+        <link>localhost:4000/2016/03/02/servo/</link>
+        <guid isPermaLink="true">localhost:4000/2016/03/02/servo/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Session #59</title>
@@ -288,124 +488,6 @@
         <pubDate>Tue, 09 Feb 2016 12:04:12 -0800</pubDate>
         <link>localhost:4000/2016/02/09/static/</link>
         <guid isPermaLink="true">localhost:4000/2016/02/09/static/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Session #53</title>
-        <description>&lt;h2&gt;Larry Ryan visit - static conversation&lt;/h2&gt;
-
-&lt;p&gt;Larry Ryan came over to our Robotics Dungeon to talk to us about static build up. Due to the effect that static had on our performance at our last competition, so we wanted to solve this problem as soon as possible. Larry Ryan was a mentor for our Robotics Club in the past, where he helped us solve many of our electrical problems. When he came to our Dungeon he gave a presentation on how static  is built up between two materials, and his speculation on what could be the problem. After seeing our robot he said that we were asking for static shortages, because of our mounting of our electronics. We are going to research the TriboElectic Series to find out what materials are producing the most amount of static, and figure out a way to disperse that static. I hate Larry jk he’s the best I owe him money he doesn&#39;t know it though. I realise that this is irrelevant, but Ima say it anyways. I stole Larry’s NASA Suit from his 1994 space expedition. I stole it because I wanted it, and it also looked fly as fish. Larry doesn’t know about this though, but I’m saying it now because I broke it when I attempted to land on Mars. Technically my red panda, Mark, broke it, but I will take the blame cause he is too damn cute. Getting that out of the way, during his presentation, Larry showed us a TriboElectric Scale showing how different materials react to each other. The scale showed that materials at opposite sides of the scale will create more static than materials that are closer together on the scale.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 08 Feb 2016 12:04:12 -0800</pubDate>
-        <link>localhost:4000/2016/02/08/larry/</link>
-        <guid isPermaLink="true">localhost:4000/2016/02/08/larry/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Session #52</title>
-        <description>&lt;h2&gt;Super Regional Goals&lt;/h2&gt;
-
-&lt;p&gt;The team has many ideas for Super Regionals. Gabe made us take a week off to think and we came together on Wednesday to discuss. We all wanted to start talking, but instead, Gabe had us write down what we wanted. This was everything from fixing the static to improving the ball collector to making the pit and improving the engineering notebook. Then, we found that everyone had too many ideas! Gabe had everyone take 5 sticky notes and place them next to the ideas we found important. &lt;/p&gt;
-
-&lt;p&gt;We narrowed our priorities down to drive practice, gearbox, block collector, static, pit, outreach, wiring, and code. These will be flexible as we run into problems, like foreseeable problems with the code or realizing we have to fix static first. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post52-1.jpg&quot; alt=&quot;board&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;White Board With Goal Ideas.&lt;/span&gt;
-&lt;img src=&quot;/img/post52-2.jpg&quot; alt=&quot;board&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;White Board With Goal Ideas.&lt;/span&gt;
-&lt;img src=&quot;/img/post52-3.jpg&quot; alt=&quot;board&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;White Board With Goal Ideas.&lt;/span&gt;
-&lt;img src=&quot;/img/post52-4.jpg&quot; alt=&quot;board&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;White Board With Goal Ideas.&lt;/span&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 Feb 2016 12:04:12 -0800</pubDate>
-        <link>localhost:4000/2016/02/03/goals/</link>
-        <guid isPermaLink="true">localhost:4000/2016/02/03/goals/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Session #51</title>
-        <description>&lt;h2&gt;Anti-Slip Hanging Mechanism&lt;/h2&gt;
-
-&lt;p&gt;We had two methods for helping our hang. We had trouble because our new gear ratio (which allows us to hang faster) could not hold our robot up. These two methods were:&lt;/p&gt;
-&lt;p&gt;1.	a second hook that extends to help us hold on. This hook would not be on a tape measure but would instead latch on once the tape measure has finished.&lt;/p&gt;
-&lt;p&gt;2.	a pin system that would stop the tape measure for slipping. This pin system would slide into the tape measure spool, using a servo, and stop the spool from unwinding.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post51-1.jpg&quot; alt=&quot;rex&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;T-Rex Arm.&lt;/span&gt;
-&lt;img src=&quot;/img/post51-2.jpg&quot; alt=&quot;pin&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Hang Spool Pin.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Debris Collectors&lt;/h2&gt;
-
-&lt;p&gt;Shanti made two debris collectors that guided the locks into the block collector mechanism. These collectors allow us to gather blocks much easier. We now should be able to gather five blocks more efficiently, hopefully letting us make more trips to the top of the mountain to score.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post51-3.jpg&quot; alt=&quot;corral&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Collectors.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Testing, testing, testing&lt;/h2&gt;
-
-&lt;p&gt;We did quite a bit of testing to make sure that our block collector, scoring, and hanging could work properly. Since we redid the chassis, we have to do a lot of testing to make sure our mechanisms work.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Remaking the Block dumpers&lt;/h2&gt;
-
-&lt;p&gt;Shanti also worked on remaking the block dumpers. The old block dumper ramps got the blocks stuck between the conveyor belt and the ramp. We wanted to remake them to make sure the blocks had a smooth transition into the ramp.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post51-4.jpg&quot; alt=&quot;dumpers&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;New Block Dumpers.&lt;/span&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 25 Jan 2016 12:04:12 -0800</pubDate>
-        <link>localhost:4000/2016/01/25/testing/</link>
-        <guid isPermaLink="true">localhost:4000/2016/01/25/testing/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Session #50</title>
-        <description>&lt;h2&gt;Chassis finalization&lt;/h2&gt;
-
-&lt;p&gt;Everyone worked on finishing mounting all of the mechanisms. They moved the treads around to fix things, and replaced the drive train gears with a chain because it&#39;s way more reliable.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post50-1.jpg&quot; alt=&quot;chassis&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Wiring on Chassis.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Code tuning&lt;/h2&gt;
-
-&lt;p&gt;Matt and Isaac worked on code for the new chassis. They calibrated all of the servo values and ensured that all the configuration files were correct now that the new chassis is put together. Isaac also converted our old autonomous to the new chassis, although he didn&#39;t have time to test it, and he added a couple new features to teliop to support new mechanisms.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post50-2.jpg&quot; alt=&quot;isaac&quot; width=&quot;50%&quot; /&gt;
-&lt;span style=&quot;text-align: left;&quot; class=&quot;caption text-muted&quot;&gt;Isaac Working on Code.&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Electronics&lt;/h2&gt;
-
-&lt;p&gt;Wilson, Samin and Isaac finished mounting the electronics. They then did some testing and fixed some problems with the organization of the wiring, since some wires were catching on parts of the robots. They also found new spots for some of the motor controllers. At the end of practice, Peter replaced the backbrace motor, which seemed to be broken.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Battery mount&lt;/h2&gt;
-
-&lt;p&gt;Matt made a battery mount for the chassis. This allowed us to mount the battery in an out-of-the-way place on the chassis.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 23 Jan 2016 12:04:12 -0800</pubDate>
-        <link>localhost:4000/2016/01/23/chassis/</link>
-        <guid isPermaLink="true">localhost:4000/2016/01/23/chassis/</guid>
         
         
       </item>
